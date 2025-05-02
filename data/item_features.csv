@@ -1,0 +1,3661 @@
+item_id,category,price,discount,recency
+f414122f-e,Sports,36.53,15,169
+fde50f9c-5,Clothing,232.79,20,446
+0d96fc90-3,Sports,317.02,25,241
+964fc44b-d,Toys,173.19,25,394
+d70e2fc6-e,Beauty,244.8,20,215
+0816ee12-5,Books,241.86,50,265
+d41e0b55-c,Toys,76.91,5,398
+83b7dc04-5,Sports,213.23,20,336
+87c9c896-1,Sports,379.81,5,429
+31308875-b,Home & Kitchen,415.36,50,475
+b2b1af7b-7,Books,73.09,10,191
+e221cf14-c,Beauty,393.77,15,232
+8c9a5f54-b,Home & Kitchen,287.69,10,418
+eeb0635d-a,Sports,26.26,50,355
+38aec303-2,Clothing,305.1,25,314
+69d91fbc-3,Home & Kitchen,113.71,5,367
+928b4b24-d,Toys,426.75,0,256
+12f03ff4-6,Home & Kitchen,52.98,0,265
+729191af-4,Electronics,223.89,0,321
+089c1cdd-0,Clothing,166.75,0,219
+a38a732e-9,Home & Kitchen,77.22,15,333
+4c021051-3,Toys,28.6,25,376
+e57d04f5-d,Books,395.73,15,174
+b1d2560c-7,Home & Kitchen,351.87,0,242
+4dc7c4a3-8,Toys,257.14,20,228
+ce353020-f,Sports,332.0,20,452
+7fd8663b-b,Toys,375.59,30,381
+b338a0b6-7,Beauty,235.13,25,267
+df52cac6-d,Electronics,352.95,50,268
+d384b62b-c,Toys,245.98,15,306
+7004654f-0,Toys,389.72,10,373
+5bfb14c4-f,Home & Kitchen,88.07,30,205
+411c40d9-1,Beauty,40.78,50,406
+d5b42863-c,Toys,105.1,25,416
+b896f670-9,Home & Kitchen,224.52,50,344
+6b5e4a98-0,Books,300.81,5,333
+7f05dd28-6,Toys,24.17,25,471
+3e56a630-e,Clothing,95.41,15,374
+1dc3b1a0-4,Clothing,490.77,10,270
+cc379a88-b,Electronics,188.07,50,303
+1695a728-0,Home & Kitchen,319.29,5,435
+c66354db-6,Toys,403.4,10,248
+273c5035-2,Electronics,303.14,0,348
+74b72b2f-7,Home & Kitchen,337.81,25,316
+5e059f5f-7,Clothing,449.74,10,227
+dd5071f5-c,Sports,272.92,30,353
+db828c6d-0,Home & Kitchen,432.89,15,430
+db26458e-0,Home & Kitchen,310.86,10,182
+ee59d876-b,Beauty,479.19,0,262
+919b53bb-2,Home & Kitchen,350.61,10,331
+159dca37-7,Books,154.62,50,204
+af65c4a5-5,Toys,435.6,50,391
+847e77d3-d,Toys,400.31,25,270
+e907e57c-b,Electronics,15.81,25,357
+f8495894-2,Toys,35.25,15,475
+be68a8d8-7,Electronics,414.76,0,304
+e964198d-7,Toys,334.47,30,248
+c834b41d-5,Home & Kitchen,178.39,25,208
+c4ddee78-e,Books,237.95,15,190
+59718054-8,Electronics,458.12,15,244
+0a46a91c-d,Beauty,286.5,5,263
+07ce9e62-a,Sports,10.78,10,251
+baff7ab2-1,Beauty,342.66,30,280
+2449a91f-2,Sports,225.17,30,226
+273ceb78-0,Clothing,405.45,25,286
+04dcad68-2,Beauty,112.45,0,297
+6d1089e4-9,Books,380.81,20,394
+32452d43-a,Sports,394.12,25,417
+df40cf3d-6,Sports,334.77,15,457
+42559644-1,Clothing,125.65,10,428
+54c501ae-e,Toys,202.26,20,229
+893343d5-d,Clothing,173.51,20,458
+ade73cc0-5,Toys,30.8,50,367
+663d067f-2,Home & Kitchen,305.93,10,193
+bc84dcb8-5,Clothing,282.5,5,381
+56c95db1-7,Books,274.87,50,225
+4dd272cd-4,Electronics,93.08,20,415
+c893a571-b,Home & Kitchen,274.11,15,195
+60e53d02-0,Sports,362.61,0,160
+568f353e-6,Electronics,486.62,25,477
+c2d4aa98-b,Home & Kitchen,336.49,20,239
+ec8c9491-b,Toys,454.39,25,238
+dd1ca92d-a,Home & Kitchen,215.44,50,312
+0fa064a8-d,Clothing,33.02,15,224
+2ad0fe64-8,Toys,138.83,10,316
+9a0a1741-8,Books,490.71,5,416
+b46f5c60-7,Toys,280.66,15,170
+214f0eed-f,Books,327.4,30,231
+c70fab41-e,Books,309.67,25,238
+fcbc5388-0,Books,292.67,25,442
+2257fd97-e,Clothing,40.87,15,415
+34a952b4-a,Clothing,455.19,15,207
+5d9e94f3-1,Toys,312.3,10,455
+4ff5749c-e,Sports,193.28,10,323
+74aeba43-c,Electronics,216.18,30,399
+2228c622-f,Electronics,81.41,5,435
+e907f4d3-9,Beauty,496.05,5,477
+a7298172-c,Sports,357.54,15,319
+4118f1cc-3,Electronics,133.93,0,371
+3b0a706d-2,Clothing,90.2,10,458
+cd9ba20a-7,Books,431.44,50,458
+ec8c3655-e,Home & Kitchen,42.98,5,235
+b3525981-b,Sports,182.04,0,250
+3d832b43-e,Beauty,83.58,20,394
+c40efcc0-2,Clothing,92.92,10,393
+268ce5a6-f,Toys,388.1,25,306
+9822591f-3,Beauty,417.57,50,433
+707c9b5c-c,Sports,322.93,5,483
+cfe90194-b,Toys,257.21,5,237
+bf258db9-2,Home & Kitchen,29.92,50,364
+137695d9-6,Home & Kitchen,239.67,15,459
+f477647f-5,Beauty,163.3,30,334
+5b91457c-3,Books,135.62,30,241
+c0712648-3,Toys,61.84,50,376
+412992e4-9,Sports,496.36,25,274
+40ca8015-7,Toys,107.11,30,366
+bc26060a-5,Electronics,384.8,25,205
+7f74df77-2,Toys,377.75,50,340
+aef8a1b7-f,Home & Kitchen,285.18,0,341
+dbc17060-e,Books,187.86,0,431
+87d16f8f-2,Sports,440.5,50,218
+4c54fc1d-0,Beauty,124.56,0,379
+7f15c4cf-6,Beauty,236.7,0,226
+a95d5384-7,Clothing,397.16,30,201
+69ac51ab-8,Beauty,248.95,15,381
+d516e842-3,Sports,123.71,50,200
+d706b082-4,Electronics,62.46,30,163
+459a15e9-f,Electronics,451.3,20,322
+4ccbd0eb-8,Sports,320.09,0,411
+7b348c44-0,Toys,51.73,30,344
+ced724ce-2,Toys,388.94,20,344
+4cebabca-e,Sports,85.98,20,351
+6b4b6852-a,Home & Kitchen,460.89,10,347
+61a3694b-7,Home & Kitchen,492.64,20,297
+4843631e-4,Sports,86.95,25,268
+b503bda4-8,Beauty,416.65,15,299
+c6e0579d-9,Toys,155.75,50,282
+b93bd2ee-b,Clothing,238.9,25,378
+cf9bf8ad-9,Beauty,470.33,0,383
+7ae18ecd-b,Toys,62.48,20,332
+9f5d4e87-5,Home & Kitchen,317.67,20,445
+0de24149-d,Beauty,33.21,20,412
+b1cd2571-8,Books,118.52,5,384
+6518b3f5-9,Clothing,376.63,15,358
+2a0374d2-e,Beauty,428.47,0,411
+119fec0d-2,Beauty,462.91,20,302
+9e012e67-8,Electronics,385.98,15,357
+4b06ab84-e,Clothing,311.0,25,273
+68235070-2,Toys,268.49,25,356
+477dbdaa-9,Toys,185.46,10,322
+e83298b7-c,Electronics,267.4,5,376
+968716f9-d,Home & Kitchen,203.43,5,219
+5b7f1241-9,Books,171.63,50,434
+69a949eb-b,Electronics,326.01,0,201
+e2a4b6ca-c,Electronics,147.71,0,325
+90518d68-1,Clothing,390.2,0,453
+1ee7bc15-5,Home & Kitchen,406.06,50,402
+7b5dd212-c,Books,268.42,5,416
+eb1e3cad-b,Beauty,210.36,10,164
+2838f818-c,Home & Kitchen,285.47,20,333
+9d19438f-d,Toys,494.46,10,255
+c45f28ae-1,Clothing,287.09,20,385
+0f772bf6-b,Clothing,378.27,0,397
+42cf5d2e-e,Clothing,23.54,20,293
+b2969904-5,Clothing,383.58,10,327
+8d276b60-e,Sports,41.61,15,176
+d13b913f-9,Toys,261.57,50,284
+5c2c5955-3,Electronics,251.32,5,306
+bc3bb60a-5,Sports,72.43,50,227
+27e9782e-5,Sports,421.0,10,301
+ab7ff487-1,Books,422.02,30,327
+d5c83689-d,Toys,219.83,5,199
+b7af74f2-2,Electronics,242.33,15,355
+4750a3de-4,Clothing,334.28,15,358
+7b7268d8-6,Books,148.21,50,251
+1f251a5e-3,Home & Kitchen,275.11,50,248
+8e964181-6,Home & Kitchen,211.85,20,337
+5a8e414b-b,Sports,497.4,50,265
+65a4da6f-6,Beauty,368.74,5,429
+5a55a846-e,Home & Kitchen,260.82,0,450
+7ce94426-b,Beauty,394.35,15,420
+f391d9be-7,Home & Kitchen,459.03,20,262
+cde121ac-d,Beauty,377.99,10,278
+08562850-3,Sports,269.87,50,267
+4263e65c-c,Beauty,458.8,50,309
+43630740-4,Home & Kitchen,414.08,20,392
+c3297364-0,Clothing,496.06,15,192
+4d7b33d6-4,Books,295.86,30,183
+16ee2335-1,Home & Kitchen,430.43,0,210
+be9ec030-d,Sports,169.71,25,296
+6eaed388-2,Clothing,315.8,0,161
+31de3bd2-f,Home & Kitchen,154.33,25,269
+88870a57-4,Home & Kitchen,197.33,25,251
+df236be6-3,Toys,270.73,20,267
+0a074647-b,Home & Kitchen,261.23,20,168
+88ef8a42-2,Home & Kitchen,334.87,50,167
+a0e0a691-6,Beauty,266.2,0,167
+8afa06d8-5,Home & Kitchen,169.53,50,420
+cc75f240-f,Clothing,332.57,0,437
+0cf80cb2-8,Toys,398.85,10,219
+6b4cb792-5,Home & Kitchen,180.6,0,218
+eabbc369-2,Books,433.59,25,472
+9883b500-1,Home & Kitchen,20.74,10,241
+a8f16266-b,Electronics,17.01,30,341
+da23cfa7-8,Electronics,34.13,50,417
+6998026b-c,Home & Kitchen,11.14,15,407
+bf309230-0,Home & Kitchen,206.97,0,187
+f10370ff-5,Home & Kitchen,353.08,50,250
+5fe989c9-0,Sports,67.36,25,171
+18a5e79d-9,Books,203.49,30,365
+8d0bdad7-4,Clothing,246.98,30,354
+928d77c4-3,Books,368.25,20,165
+f383159c-4,Books,327.19,20,179
+8d255132-b,Sports,274.65,20,173
+2cbe2f6f-c,Electronics,369.15,0,315
+9ea32af8-e,Clothing,84.26,5,196
+65ac8845-c,Books,255.74,25,330
+93a8561e-7,Sports,440.74,30,231
+41fbbdbc-9,Electronics,316.84,25,340
+e2cdb444-c,Beauty,199.88,10,466
+bcdf7628-1,Home & Kitchen,389.85,30,284
+1115a4cc-1,Sports,317.98,5,281
+a1d355b7-1,Home & Kitchen,165.06,30,169
+a0354415-2,Books,192.48,15,329
+96ef0dc9-6,Home & Kitchen,106.34,20,384
+bc8f50c4-2,Electronics,404.92,50,190
+8a124bf1-f,Toys,289.62,10,276
+7951f51e-0,Beauty,129.89,5,374
+28cfa86a-5,Home & Kitchen,41.2,5,289
+612b78d4-f,Clothing,208.08,15,166
+b91ead40-7,Sports,114.84,20,317
+88c4fbee-6,Toys,430.16,20,455
+12e1e7b7-7,Sports,431.98,25,480
+743ba069-f,Home & Kitchen,472.77,20,397
+4ee2c2d6-9,Sports,473.18,50,188
+1c303802-d,Books,205.06,25,260
+fe1e6a78-9,Beauty,485.71,20,327
+3ba8563c-f,Sports,84.28,10,219
+afda448a-a,Books,189.84,20,418
+916025c8-f,Sports,366.4,15,230
+ece88ff7-0,Clothing,93.05,50,350
+9083e49d-7,Toys,398.16,5,376
+c69635d9-f,Sports,326.51,20,338
+23e7a67d-1,Toys,367.98,5,444
+7bbba576-7,Toys,424.14,50,236
+948a3b40-d,Clothing,359.51,30,353
+b6bfe4cb-f,Toys,187.2,25,337
+56f9b336-5,Home & Kitchen,232.12,5,246
+ce4c61d2-d,Sports,236.78,25,311
+d2f40c10-8,Sports,439.4,10,392
+3d8c1bc0-8,Toys,133.33,5,346
+1bec4273-5,Beauty,199.31,5,242
+e570765e-b,Electronics,143.68,10,271
+be05d6b5-2,Home & Kitchen,313.37,15,276
+06ea5adb-3,Electronics,311.05,30,368
+0d1765cc-2,Beauty,71.34,0,232
+23eca2e3-4,Books,354.11,0,305
+00bb902e-c,Books,163.91,10,220
+c1cbbee6-d,Clothing,460.83,30,438
+8730a0ee-7,Beauty,49.61,20,378
+9869b403-1,Clothing,325.51,15,171
+7936a1cb-1,Books,394.16,10,179
+a49efe9f-9,Home & Kitchen,440.11,5,223
+c0b10d64-7,Books,94.52,30,202
+474c66bf-3,Beauty,209.41,50,181
+312bc8fc-8,Toys,413.31,30,419
+f048a4a2-5,Sports,205.82,5,205
+118fb0b7-5,Home & Kitchen,110.73,30,160
+36d0d0c8-a,Toys,432.1,5,327
+a1d11037-3,Sports,375.09,5,186
+5f7c41ee-8,Electronics,69.77,5,317
+148cb3f3-1,Beauty,430.96,15,232
+03855207-2,Home & Kitchen,429.69,30,448
+5409dd3e-8,Books,381.28,15,207
+fb807119-e,Toys,72.87,20,441
+a875d9c4-3,Beauty,37.67,25,388
+c0b273c2-5,Books,485.0,15,164
+61c34d6b-7,Home & Kitchen,214.45,0,381
+e7f6b561-2,Beauty,315.89,0,484
+e5e1cfb0-8,Books,211.67,50,358
+108aa207-b,Toys,490.75,30,303
+06a09e72-0,Toys,444.27,10,429
+d0b8fdbd-c,Sports,244.61,10,250
+6a7a755f-3,Books,444.87,30,417
+8fb4616e-1,Books,231.08,10,455
+211045d2-8,Beauty,32.39,20,354
+19c38aae-f,Toys,260.74,5,222
+96cc2aff-a,Electronics,446.14,0,483
+1f547b94-e,Beauty,144.56,10,265
+38cc3695-2,Home & Kitchen,467.35,50,293
+0c216a89-c,Toys,71.02,50,164
+8154e3b9-f,Sports,374.32,50,479
+9a063b15-b,Books,61.82,20,465
+1c38c5f3-a,Home & Kitchen,214.64,20,268
+4743f61c-6,Books,220.76,15,412
+f7dc5f39-8,Toys,204.56,0,420
+938a985a-3,Beauty,78.43,15,249
+8423ce73-6,Home & Kitchen,132.48,20,364
+67788728-f,Books,334.55,5,168
+f103ac45-1,Electronics,311.29,10,200
+2b5c6c6d-1,Electronics,70.49,15,462
+adf77823-5,Electronics,243.69,50,481
+1e180b5a-5,Clothing,74.67,20,344
+747539b8-3,Electronics,388.03,5,297
+d037e5a2-4,Sports,28.12,0,409
+5d6fed7e-c,Books,112.53,15,322
+35303867-3,Books,439.81,15,340
+035b2887-1,Sports,220.37,20,450
+409255b0-7,Home & Kitchen,314.16,30,213
+cb2df151-f,Clothing,438.97,10,194
+9e7e2170-8,Clothing,166.89,10,477
+952d56a9-b,Books,222.28,0,235
+c5cfe88d-5,Clothing,128.89,25,310
+e8999fe4-c,Beauty,65.88,30,200
+30884869-f,Beauty,31.93,15,412
+9c80171d-4,Home & Kitchen,18.79,50,208
+d09b26d9-0,Beauty,46.99,25,416
+2b55fe4e-5,Beauty,293.28,30,277
+7bd70763-d,Sports,419.54,10,317
+f6ac2fc8-b,Electronics,150.09,10,442
+9837356f-2,Books,172.11,25,303
+fa178a1a-9,Books,440.57,5,268
+d0248426-8,Toys,121.31,15,239
+3e909d12-3,Electronics,481.88,15,335
+8783e6d7-9,Home & Kitchen,177.59,20,348
+6c60ac1f-5,Electronics,443.05,30,459
+ce33c092-3,Electronics,235.33,50,314
+6917952b-a,Beauty,24.75,50,472
+dd47ca5c-7,Electronics,470.9,10,435
+dbdf1bd9-4,Books,237.27,0,168
+affa909a-d,Books,151.72,5,403
+b728a1fd-f,Books,27.88,50,371
+9290dba4-3,Sports,26.95,20,418
+35165fca-f,Sports,417.34,30,438
+f9b277b8-e,Clothing,207.54,10,308
+6330d18c-c,Home & Kitchen,123.41,25,360
+cca83636-7,Sports,398.36,0,400
+0e1a71b4-5,Sports,350.5,15,474
+f75cd757-e,Books,459.93,0,315
+d7756866-3,Toys,324.93,25,426
+8758e2a7-5,Toys,483.48,15,230
+f6668874-4,Books,286.37,25,408
+99f4f73c-d,Sports,486.15,5,309
+34731d18-b,Clothing,44.29,0,204
+9daf59d4-d,Sports,481.53,25,252
+112725bd-9,Toys,404.07,15,303
+5471b17a-5,Sports,63.31,20,322
+4e770614-0,Electronics,254.31,0,390
+880eab94-7,Home & Kitchen,152.98,15,316
+a3a6c3c3-5,Electronics,199.16,15,406
+2029492d-a,Electronics,384.71,10,418
+97aa2898-6,Toys,498.37,10,311
+1a75428d-6,Beauty,142.53,10,205
+741be484-3,Beauty,353.77,15,450
+6cc0fabb-0,Toys,38.68,5,231
+edc90cdd-f,Electronics,34.3,10,169
+49da2a6d-0,Sports,121.05,25,229
+19694848-0,Sports,117.95,15,472
+966d092f-4,Clothing,41.11,20,169
+e1fbcf04-4,Electronics,171.56,20,278
+5ff948e9-e,Clothing,190.47,20,384
+37dd32b9-2,Toys,94.21,25,389
+f5929b23-f,Electronics,294.66,15,193
+f735c522-7,Home & Kitchen,262.15,15,472
+0bb347fc-8,Books,257.35,50,168
+385d5a98-5,Books,318.15,10,409
+1879476d-1,Sports,432.56,30,348
+60552b00-5,Books,386.32,10,379
+8dc77453-f,Toys,131.54,5,172
+68175273-6,Clothing,32.29,0,199
+1716680b-f,Home & Kitchen,278.03,10,441
+61dc6cda-6,Beauty,381.05,10,205
+3b35362c-0,Toys,56.78,10,415
+7321f69d-6,Sports,30.56,30,332
+70243117-d,Clothing,387.81,20,272
+ec7ee1d8-c,Clothing,375.41,30,428
+9f0f06d3-3,Sports,183.1,5,415
+b1f1cec7-8,Electronics,278.54,15,197
+fbcacc6c-d,Clothing,227.68,10,226
+28c40ae3-e,Electronics,490.91,30,271
+9eeae0e2-6,Clothing,69.31,50,219
+b8c6b653-c,Beauty,31.12,50,257
+538ed23f-d,Sports,225.59,25,231
+c612b025-d,Toys,328.31,10,243
+5aff8eb0-a,Books,92.21,50,230
+0a6ec1de-5,Home & Kitchen,95.3,15,405
+4cf74eeb-1,Toys,467.24,0,264
+66d31bcc-5,Sports,181.68,10,434
+86c443dc-d,Clothing,267.88,50,288
+e5071257-0,Electronics,138.46,0,343
+2d45fe93-4,Clothing,151.92,5,322
+1df471c0-6,Electronics,163.54,25,423
+ad05bd9b-3,Beauty,286.09,30,329
+26feb22b-9,Beauty,209.89,30,426
+43084da7-3,Toys,454.14,10,168
+d3ede683-9,Home & Kitchen,87.6,25,349
+8b7d3acc-5,Beauty,223.73,30,273
+c2358c11-c,Clothing,473.12,10,170
+5e1c0286-d,Clothing,474.63,5,377
+6f5b3c27-7,Books,351.26,10,161
+1e048fba-3,Clothing,412.47,15,266
+5e3bc580-6,Sports,221.39,20,337
+b6c438b1-4,Clothing,47.18,0,469
+6ff74b4d-7,Sports,363.37,50,348
+513edd5b-a,Sports,116.06,0,195
+474e681a-a,Home & Kitchen,321.07,20,296
+1e7bf1fe-6,Books,485.4,20,179
+f28cdd02-7,Clothing,129.71,25,347
+38d8b02d-4,Clothing,481.63,20,359
+6eac3727-8,Electronics,112.0,0,322
+db7d8ba8-a,Books,444.98,0,404
+0e5c25e6-2,Beauty,226.97,25,191
+5d6d3c17-6,Electronics,412.98,20,206
+d0d702ad-8,Electronics,306.97,20,419
+25ea4a1f-0,Books,479.52,15,217
+7c4d897b-7,Sports,422.68,15,453
+7fe0ba98-f,Toys,450.51,30,201
+fa1b70a0-d,Clothing,337.72,5,339
+dce9a48e-f,Clothing,355.43,25,234
+933712e7-8,Sports,250.41,50,473
+37cadfa7-8,Beauty,258.08,25,315
+27cdeb76-6,Sports,61.98,0,469
+cfcc5fd6-b,Books,277.14,10,289
+210a2d36-7,Electronics,181.62,50,188
+4c798c68-9,Beauty,101.29,15,432
+e0f744c7-3,Sports,399.69,25,300
+f5819e74-0,Books,181.69,10,446
+37800a56-3,Clothing,138.51,15,435
+1a3aa7ac-9,Sports,360.88,30,219
+6d05da53-3,Toys,152.43,20,393
+2ea64143-d,Home & Kitchen,278.78,15,473
+9a544065-a,Beauty,82.95,10,311
+28dd3466-1,Sports,83.31,5,208
+7438ea1f-c,Books,268.14,0,332
+071b5966-3,Sports,489.42,50,253
+1d4e9360-1,Home & Kitchen,210.4,0,342
+e5a12194-5,Books,99.23,20,427
+385838a7-e,Electronics,280.2,0,276
+bb11a08f-4,Beauty,200.14,10,175
+b22c4626-9,Home & Kitchen,388.45,15,376
+2784b792-4,Electronics,429.43,50,269
+c1e93299-2,Toys,348.15,15,476
+762221aa-3,Books,176.6,0,414
+389afb40-f,Beauty,228.74,0,300
+2830b16b-9,Home & Kitchen,302.97,15,295
+88733fae-e,Beauty,117.7,25,262
+67d80dfd-7,Clothing,219.19,25,279
+381eab4a-d,Home & Kitchen,137.74,30,250
+36fe6ac6-2,Beauty,436.86,5,444
+82b6cd96-6,Sports,269.89,20,214
+a1f2b6dd-7,Sports,81.82,10,329
+5dd58cd8-2,Books,353.61,20,369
+ed21c448-4,Toys,37.73,15,368
+3eb56196-f,Books,215.34,5,401
+c3890ccb-8,Toys,117.18,10,419
+4a8e60af-d,Beauty,451.22,5,397
+7bcd7ac9-6,Beauty,382.83,30,478
+90a62e58-d,Sports,213.0,50,478
+9e13e61e-c,Home & Kitchen,450.17,0,405
+d5ffce9f-3,Home & Kitchen,251.98,50,273
+3bf1badc-6,Beauty,345.49,25,399
+8f8a84e9-8,Beauty,431.89,15,452
+531124f2-0,Clothing,76.69,0,302
+4fb52521-f,Electronics,373.26,50,443
+ae353616-c,Books,26.71,30,329
+3eed3203-4,Electronics,191.54,0,266
+062f7492-d,Sports,473.96,25,392
+c18f0916-4,Beauty,347.43,15,343
+1ff000e0-e,Clothing,200.63,5,395
+69e1b723-6,Home & Kitchen,47.45,25,343
+5e2b3419-a,Home & Kitchen,453.53,20,390
+91b88773-5,Clothing,378.95,20,160
+908a54b6-0,Sports,321.66,0,357
+27c745da-8,Home & Kitchen,429.78,5,285
+51f72692-9,Home & Kitchen,392.26,5,470
+d269fa86-d,Home & Kitchen,169.92,25,365
+03e902b1-7,Beauty,344.08,30,378
+a2075783-1,Books,119.61,50,267
+507cfd45-3,Toys,304.02,15,229
+d530da77-3,Books,221.6,20,416
+cddf766d-e,Clothing,371.72,15,259
+d78da125-0,Books,245.53,0,383
+018f23ea-7,Home & Kitchen,435.73,50,281
+b121d823-9,Beauty,399.88,5,175
+98898541-4,Clothing,471.77,15,206
+919c0e4d-0,Electronics,451.25,30,324
+0e7f87e5-8,Toys,168.52,5,392
+310c2d25-b,Home & Kitchen,272.8,30,357
+73bb6de8-1,Electronics,153.13,5,374
+31dd646d-7,Clothing,244.73,50,240
+267985bd-2,Sports,74.64,30,164
+b8455d97-7,Sports,204.33,10,265
+7dcce976-1,Books,426.27,15,222
+a7f3a36d-b,Electronics,369.36,10,219
+f4193c4a-2,Electronics,384.61,0,426
+26c3c2aa-e,Clothing,203.19,20,414
+012b2dda-1,Electronics,394.31,20,335
+52cdaea0-8,Beauty,135.22,25,467
+3ba6780b-a,Toys,241.76,50,471
+5024d38a-c,Toys,20.31,5,329
+4af5147b-4,Toys,236.62,20,213
+3c7eedc9-a,Sports,250.72,0,255
+6280a914-4,Books,407.45,30,372
+5497ca0e-5,Electronics,436.95,10,194
+3a6f86b9-b,Toys,292.37,50,194
+122394b2-e,Sports,63.8,0,230
+63b737b8-d,Sports,462.49,15,242
+433fec78-f,Sports,122.14,5,357
+4b94f455-e,Toys,430.8,50,392
+451dc78c-3,Books,245.54,15,225
+c385a9e4-c,Toys,411.1,30,315
+ce07178a-6,Clothing,152.62,50,350
+13cd0a57-0,Toys,141.24,50,218
+3d9f22df-f,Electronics,419.81,15,386
+a0d2dea3-a,Clothing,389.67,0,330
+56886e5d-7,Electronics,426.13,20,390
+6e4a33e0-e,Electronics,496.76,5,416
+5ec4a8b3-d,Electronics,109.99,15,316
+4a545c9f-8,Books,423.41,25,330
+f330657b-d,Home & Kitchen,59.42,20,163
+2fe1f2b3-b,Clothing,14.4,20,344
+bef56996-5,Beauty,127.92,10,247
+84268f41-1,Sports,190.26,0,471
+0f8b3bb7-8,Books,366.79,20,404
+4396ccca-1,Home & Kitchen,238.92,25,169
+4b89d022-8,Books,105.61,10,291
+5afee66b-4,Beauty,251.84,5,463
+17c05cd0-c,Toys,482.78,30,303
+b0d69622-a,Toys,204.49,5,431
+f73bf81c-f,Electronics,364.65,5,433
+b3345786-8,Books,66.29,50,226
+4023a06e-7,Home & Kitchen,122.79,25,477
+3f1caf62-f,Home & Kitchen,59.16,20,401
+2ad69764-b,Toys,482.74,20,418
+33850590-0,Toys,400.25,30,297
+07fa6d99-0,Clothing,278.69,30,198
+14161f4b-8,Books,446.45,5,197
+33b219e4-0,Toys,77.79,10,481
+89d4357f-0,Clothing,126.91,20,235
+c6438a19-5,Toys,350.82,30,336
+0a454a94-f,Books,43.02,10,468
+fbe1be6d-3,Toys,416.29,25,233
+9d4429b3-b,Books,128.2,15,212
+912f767d-d,Toys,112.97,25,179
+4b585842-7,Toys,221.92,20,252
+c043a23a-d,Toys,356.78,20,404
+6698a03c-9,Sports,309.92,30,251
+6e225e67-8,Books,400.63,30,411
+15b532b8-c,Books,377.55,50,248
+f1aa4880-3,Beauty,382.33,15,233
+e4733b2d-3,Beauty,215.61,15,425
+88ac9198-a,Books,352.89,10,453
+ad95ddec-0,Clothing,403.98,15,234
+2392c4a9-b,Beauty,19.44,15,274
+95d60434-e,Toys,422.63,50,191
+e9feb788-5,Toys,302.73,30,341
+0ca7d06c-9,Beauty,71.26,0,239
+1d45530e-f,Books,332.89,0,279
+33f24bca-a,Clothing,254.19,10,275
+3a2603ce-0,Beauty,436.15,30,259
+a8e54bbb-b,Toys,379.65,30,177
+c97eb78f-6,Toys,440.27,20,394
+408988b0-2,Toys,358.89,0,468
+1d0dfece-f,Home & Kitchen,463.05,15,389
+ad413f74-7,Clothing,14.66,50,350
+74232b1e-e,Clothing,374.15,10,265
+f1612cb4-2,Beauty,330.67,15,338
+1730de82-d,Books,367.14,5,216
+b99ff610-5,Electronics,96.93,50,258
+fd68f3df-7,Home & Kitchen,326.94,5,216
+68365458-0,Sports,133.61,10,480
+b1cac920-f,Electronics,319.29,50,282
+c4e06440-e,Home & Kitchen,473.16,30,219
+ceab308d-f,Electronics,261.33,30,372
+fda392f9-d,Home & Kitchen,332.48,5,225
+64049319-8,Clothing,180.06,5,406
+494800ef-2,Home & Kitchen,478.62,5,417
+2ac7fc27-9,Sports,391.77,30,342
+2a34ede3-a,Beauty,194.6,50,162
+93f6ad6c-3,Electronics,145.56,50,435
+f6ffdeea-1,Toys,149.93,0,445
+cbeb110c-d,Books,197.26,20,331
+758e3cf5-d,Books,125.47,15,220
+c8304287-0,Sports,221.24,0,482
+b3684052-7,Clothing,421.76,50,405
+f9c3cc85-b,Sports,342.6,20,451
+4d81096c-a,Beauty,380.5,25,266
+96a4eeb1-a,Electronics,435.45,0,472
+d45a02f8-3,Books,255.26,25,178
+1ac7fcaa-4,Sports,142.92,25,249
+0ae87429-2,Electronics,203.54,25,414
+8baecb87-6,Electronics,71.16,0,272
+56534cf5-a,Books,484.89,20,364
+891369e6-3,Home & Kitchen,431.84,10,286
+1859fc40-2,Books,236.16,15,426
+eb398faf-6,Electronics,319.55,25,221
+4da1fb5d-d,Clothing,132.67,15,192
+dfc784ec-d,Toys,112.35,5,433
+69843943-b,Books,170.5,10,190
+a4353860-7,Electronics,287.69,10,442
+11d34f7e-2,Toys,216.75,0,337
+df7930b9-d,Electronics,37.79,10,357
+4ac6af27-a,Books,100.23,50,334
+273017e8-2,Beauty,453.66,0,275
+93235dc9-9,Toys,401.54,10,228
+37a661c4-a,Beauty,442.41,15,407
+c4f71922-a,Electronics,224.56,50,193
+e740000e-2,Clothing,435.97,15,255
+35efff39-b,Electronics,398.25,15,390
+63c30b65-a,Toys,262.8,0,408
+06fff043-4,Home & Kitchen,257.67,0,177
+eba5c94a-6,Toys,410.07,50,237
+39c7b618-6,Toys,51.33,20,234
+76ca9c3c-c,Beauty,28.77,10,236
+268b335a-8,Clothing,130.27,20,377
+8164e79d-1,Beauty,113.72,50,180
+a2f99d43-c,Beauty,306.77,50,333
+d36a344e-f,Home & Kitchen,68.53,0,191
+92411baa-e,Electronics,186.96,20,267
+ed268cfc-4,Sports,496.79,5,355
+6390f2ea-8,Books,479.63,0,383
+7cbf22f9-2,Sports,235.86,20,181
+85842870-7,Beauty,74.55,30,281
+28ca7dce-f,Home & Kitchen,269.25,30,203
+30ff2cd8-5,Books,66.37,25,233
+579ede7a-c,Toys,122.84,5,369
+b6add811-e,Electronics,209.68,5,367
+e59dd1ef-7,Home & Kitchen,243.62,20,291
+594121e8-4,Sports,421.25,25,379
+4aa17ee2-e,Beauty,281.6,50,366
+d001ebc6-5,Clothing,355.16,10,367
+f474b729-5,Clothing,172.78,5,333
+0412d7ff-f,Electronics,96.27,30,219
+41f528fa-5,Sports,286.09,10,230
+ef18627c-6,Home & Kitchen,407.47,30,207
+8029a89d-b,Clothing,230.18,10,186
+158fd3b5-2,Home & Kitchen,473.05,50,250
+a52fdf17-b,Clothing,126.42,5,455
+ad642b46-7,Electronics,357.02,5,444
+dbebaa55-4,Home & Kitchen,114.6,5,186
+e1afb191-5,Beauty,483.93,50,232
+1fe67292-0,Electronics,410.02,30,397
+793480ee-d,Home & Kitchen,39.29,15,220
+3b3acd49-f,Home & Kitchen,143.25,20,289
+c5a964e5-1,Sports,487.54,50,381
+0c4145bc-8,Toys,84.34,50,253
+98eb0ae1-e,Electronics,83.69,10,360
+32f4abf1-e,Electronics,412.56,50,318
+ac13377e-b,Toys,83.48,50,422
+46b7b3a3-0,Clothing,422.69,20,367
+df1e3f0d-5,Toys,110.52,20,208
+347bc94b-6,Electronics,307.25,10,189
+176b24ce-d,Books,83.16,0,371
+bc2a8a1a-0,Beauty,33.33,10,164
+1587d0c4-b,Books,96.23,20,285
+2a339668-e,Clothing,246.49,15,245
+afd38630-0,Books,414.86,50,371
+33d1d69e-5,Electronics,87.2,5,197
+d86c4787-2,Electronics,15.67,5,476
+c8ee38d3-1,Beauty,396.59,15,348
+380bf7e8-2,Books,64.47,15,224
+a7e4d8b4-9,Books,364.19,10,364
+74a43ff7-2,Beauty,265.86,15,198
+4cc35f1a-1,Clothing,202.03,25,254
+7c011ded-7,Toys,340.26,5,477
+a6326e35-d,Clothing,84.13,30,368
+05c97ccd-6,Home & Kitchen,72.96,5,246
+e10f1782-1,Home & Kitchen,412.27,20,252
+90ea4fe6-d,Electronics,16.08,30,411
+b7e948d3-5,Beauty,13.43,10,395
+7f6906b4-0,Sports,375.79,30,390
+a8594906-d,Books,184.8,30,211
+bea3dc50-a,Toys,15.56,10,462
+a6166130-b,Sports,197.79,30,437
+581a41f1-b,Books,175.77,25,352
+b28c2240-7,Beauty,174.56,0,218
+6f0fcbd8-e,Beauty,279.38,20,431
+e101ab76-7,Clothing,129.52,25,173
+2c1cd7b8-c,Clothing,125.93,20,320
+57b27e03-4,Books,78.34,25,325
+eb0596ff-1,Sports,23.85,20,202
+4913cc97-2,Home & Kitchen,209.44,15,434
+bb6469a8-e,Electronics,291.97,15,449
+fda470b8-1,Electronics,401.11,5,244
+0b4350eb-5,Books,335.49,0,224
+d8f3686a-3,Clothing,58.24,50,479
+30b35209-e,Toys,164.37,30,437
+c29aa4a8-f,Beauty,99.36,5,257
+5e9900af-f,Sports,351.99,10,225
+676d7645-b,Books,365.39,5,289
+ba8a075e-b,Toys,12.32,10,464
+a9cf9e47-1,Sports,355.88,5,464
+84478b2a-7,Beauty,462.7,15,217
+f3fa141b-a,Clothing,308.66,5,187
+3316625a-a,Sports,155.2,30,362
+329af66f-e,Beauty,143.63,25,470
+efd0a0a2-6,Clothing,23.78,5,366
+d474e7e9-2,Electronics,365.38,50,271
+4b0562d6-6,Sports,156.89,50,271
+2ab12e1b-6,Books,429.37,50,181
+ef5c107c-f,Home & Kitchen,197.66,15,208
+0bb5397d-8,Beauty,167.31,20,476
+868803c9-8,Toys,494.3,20,474
+f6a07190-8,Home & Kitchen,115.09,10,257
+51393037-0,Sports,140.42,0,337
+4c529cb5-6,Home & Kitchen,263.55,50,171
+581977ad-e,Home & Kitchen,23.62,15,373
+05a68613-e,Clothing,181.26,50,308
+38210005-e,Books,389.82,25,248
+a1ca6a6d-5,Sports,347.3,0,294
+7b2f61cf-4,Books,73.29,0,241
+468994c4-8,Electronics,308.09,0,415
+7cb9f116-e,Clothing,341.04,10,476
+9bba74d0-a,Clothing,268.87,10,233
+1d561c87-f,Electronics,30.54,25,361
+3b16bf75-a,Toys,326.97,20,341
+aa8da6fc-a,Sports,143.47,25,327
+576781f7-3,Books,243.15,50,197
+6eb3c1f2-9,Home & Kitchen,422.47,15,185
+17546bcb-2,Books,243.06,10,270
+bb5744d0-b,Home & Kitchen,179.92,25,479
+f254b403-8,Books,95.75,5,355
+842dd0ce-5,Electronics,398.4,10,324
+8300126f-c,Toys,447.35,0,352
+2a4a8474-e,Home & Kitchen,481.84,5,244
+524bb820-b,Toys,112.69,15,413
+d9daf14f-5,Electronics,466.59,50,376
+68912f50-f,Toys,37.83,5,200
+95991863-9,Beauty,197.76,0,184
+fb79fc41-8,Sports,308.9,30,381
+203a42f4-5,Home & Kitchen,169.15,0,409
+c42c9409-d,Sports,220.98,30,342
+0c0daeec-a,Home & Kitchen,218.58,5,267
+84d390d3-6,Clothing,259.42,20,390
+118c14a6-4,Toys,369.33,5,304
+1a38d99a-4,Electronics,424.82,50,455
+f5f63eca-8,Sports,426.82,20,397
+ef1c4943-2,Clothing,50.89,20,314
+b2240a4c-f,Toys,362.6,20,348
+5284add4-d,Clothing,150.55,25,471
+9150cb0b-4,Beauty,48.18,50,211
+13ac4c2d-9,Beauty,138.64,20,204
+6acf0b33-c,Electronics,274.22,25,407
+d13af207-3,Beauty,327.53,30,454
+6087024c-4,Clothing,477.1,15,165
+4361fa36-a,Beauty,213.97,50,187
+cb7f85a2-c,Sports,305.91,20,231
+d1231bbf-f,Books,109.77,10,165
+ac5c0b1b-5,Beauty,42.93,0,177
+e3fbbb68-6,Books,387.69,25,223
+1b1beeb3-3,Sports,64.68,30,290
+e2579884-9,Home & Kitchen,55.0,15,201
+7c632a2e-c,Toys,261.36,10,281
+3fffb302-7,Home & Kitchen,415.54,10,421
+0d81cb5b-8,Sports,291.5,25,255
+887204fc-0,Books,56.4,5,243
+166a45a2-c,Toys,63.96,5,227
+567355fa-3,Home & Kitchen,246.62,0,334
+2d4ef699-f,Books,61.7,5,431
+5e93104b-a,Books,434.51,15,289
+00fcb9c0-8,Clothing,350.78,10,310
+ec4cfda5-5,Books,137.81,10,185
+cc021b5e-8,Beauty,18.74,5,223
+10e8a4f7-b,Toys,457.22,5,210
+2c91e42a-6,Toys,233.57,0,255
+5978f0ff-1,Electronics,136.96,25,181
+7e336240-1,Clothing,440.6,25,363
+e526dc06-e,Electronics,267.99,5,178
+6d1515e6-3,Beauty,80.57,25,367
+22678cd9-e,Sports,417.36,0,441
+9aaae28d-d,Electronics,294.52,10,462
+6cfb4a90-6,Sports,375.0,20,423
+fa76eccc-7,Sports,60.63,25,405
+c0d8e8ab-4,Clothing,214.26,10,462
+84b8e40f-6,Home & Kitchen,131.08,50,373
+a123f1a2-e,Clothing,395.41,10,260
+bc32e509-c,Electronics,477.0,25,275
+cacf1f1e-3,Electronics,314.34,50,414
+0c58c336-9,Clothing,232.51,20,440
+5c0ef37f-2,Books,306.61,20,362
+a4399143-2,Beauty,271.74,30,403
+7ba3966b-5,Sports,363.52,30,447
+e1224f77-9,Electronics,304.33,50,485
+4f25c1c1-a,Beauty,403.2,10,466
+30571c6b-a,Electronics,317.23,30,315
+e7b4c53e-1,Home & Kitchen,325.63,50,381
+ad74ed86-b,Electronics,443.94,5,354
+7fdb1426-8,Books,105.16,5,246
+26488257-8,Home & Kitchen,95.11,20,221
+0ab77e86-e,Toys,231.11,20,168
+9d8e1e52-1,Home & Kitchen,89.92,50,463
+1d77c7af-3,Home & Kitchen,293.2,50,439
+4116b831-2,Electronics,171.28,30,182
+f0ed22c9-3,Beauty,476.57,5,219
+b82fe130-6,Sports,323.84,30,439
+1f12847c-d,Sports,430.99,30,289
+53b4de6e-9,Home & Kitchen,74.43,15,428
+dc45d710-7,Clothing,390.11,0,402
+abd19d27-0,Beauty,311.55,25,479
+b709f015-d,Toys,136.17,10,319
+1856f48e-9,Beauty,290.57,5,175
+30c6766f-3,Beauty,465.37,50,238
+e5167a38-0,Home & Kitchen,98.93,0,182
+39394899-d,Sports,468.2,10,172
+c5b6f5f8-7,Books,146.93,20,202
+047680b7-4,Toys,481.22,5,176
+962ce4b9-9,Home & Kitchen,51.83,50,201
+38515136-8,Books,221.27,30,264
+f8a7b3cb-a,Clothing,39.97,20,323
+1cb6afbc-4,Beauty,219.61,15,406
+326dc1f5-9,Sports,153.68,25,283
+2c0caa2e-4,Clothing,393.56,25,283
+bade74aa-4,Clothing,27.49,20,363
+e797ba11-c,Home & Kitchen,279.28,5,332
+9a56685d-c,Electronics,77.45,20,351
+8dff29eb-7,Sports,226.49,10,208
+0a39406a-e,Beauty,111.14,0,398
+21918b6b-3,Sports,323.64,50,450
+52f65655-f,Books,235.75,20,265
+cad3fdda-e,Home & Kitchen,40.1,5,482
+183ca096-f,Home & Kitchen,379.07,20,209
+6b5e75a3-9,Electronics,25.28,5,243
+3ed75263-6,Toys,340.18,20,450
+284503ec-c,Home & Kitchen,10.37,5,196
+41e93c18-6,Clothing,334.28,30,419
+e8883132-5,Beauty,160.13,15,459
+3a7449b5-2,Sports,223.01,25,232
+a9f02f8c-1,Clothing,330.76,10,170
+620721a3-e,Sports,345.47,25,457
+0dc1a84f-d,Books,404.19,15,427
+d332a849-4,Clothing,328.44,10,214
+60fcaed7-7,Books,152.84,5,370
+a0441877-3,Sports,353.96,10,334
+cc8b1c23-2,Clothing,151.55,10,168
+f2c895cb-2,Clothing,412.92,50,419
+598596a4-7,Clothing,326.52,10,424
+86885061-1,Electronics,198.45,25,342
+9bf78c9a-3,Electronics,132.31,10,194
+e54a25c2-4,Electronics,359.46,50,432
+cf29c7a3-8,Books,466.36,25,229
+c6347235-0,Beauty,368.62,25,406
+3c9a3ef2-d,Home & Kitchen,374.41,20,307
+1f31c5f9-6,Electronics,408.46,50,182
+95199ded-8,Toys,252.68,0,260
+9463ea85-8,Books,302.72,50,205
+4efbd6fd-1,Electronics,335.31,25,229
+fb219753-e,Books,253.05,20,346
+d1391498-e,Sports,482.4,50,388
+c95968a6-3,Beauty,384.44,10,226
+63955182-b,Toys,340.43,30,333
+c9b146c9-5,Toys,323.46,10,301
+a1878150-1,Clothing,495.35,30,350
+fde754b4-1,Toys,422.7,0,222
+090337cd-a,Books,183.06,30,262
+ac287cf7-1,Sports,439.67,50,351
+18c52147-6,Electronics,40.86,30,283
+75aef9df-6,Books,131.99,50,216
+cc0cd40a-a,Clothing,264.43,0,444
+2cfa9ec7-0,Sports,152.63,30,288
+f9ab318b-7,Toys,435.67,0,176
+9a5add4e-2,Books,458.34,0,191
+a5155b7e-c,Electronics,201.3,5,407
+c8124e78-4,Toys,221.53,30,196
+5c0b6596-f,Sports,475.5,10,174
+aaf35eae-2,Beauty,293.84,15,238
+25cd002f-e,Sports,367.27,25,252
+86dccec4-a,Beauty,89.92,25,264
+25c1502c-f,Electronics,422.91,10,367
+e0d5b83a-3,Electronics,276.94,50,326
+788e7cc6-6,Home & Kitchen,408.28,25,281
+33036bf9-b,Electronics,146.46,5,290
+1518f397-4,Home & Kitchen,389.59,10,265
+0faf569e-1,Electronics,273.61,30,453
+ae145df8-8,Sports,373.25,10,379
+1a48d1a4-7,Home & Kitchen,120.24,30,242
+1eda0f3c-9,Sports,195.46,0,306
+075c7e1a-a,Sports,18.99,5,391
+a526d0bf-9,Books,124.31,50,315
+979b12da-c,Clothing,233.95,10,264
+6a9280ea-2,Toys,291.38,10,229
+87c9f24f-8,Electronics,108.86,5,191
+5655eb89-5,Beauty,201.42,20,337
+d767d45d-a,Home & Kitchen,129.48,15,162
+e8d4ff23-6,Beauty,475.59,20,198
+b8375129-c,Sports,471.4,30,242
+8a2d7d67-b,Books,279.07,10,423
+f2dc543b-9,Home & Kitchen,373.45,30,426
+fa44d09d-5,Clothing,89.77,10,228
+b7a796cd-a,Sports,102.51,20,438
+dcb6da7a-7,Sports,246.87,10,264
+cec7eb10-1,Sports,163.15,5,341
+e716451f-f,Books,221.52,30,173
+7ef9e09f-b,Electronics,411.81,5,356
+602bb15e-4,Clothing,466.18,0,446
+c534d5aa-5,Toys,446.49,50,311
+bfc775a1-a,Beauty,259.36,5,373
+2fd1ffe3-1,Clothing,261.74,30,218
+f9c10c74-8,Beauty,226.02,5,432
+136578f7-6,Electronics,149.94,20,252
+706a6f3e-9,Books,44.18,30,444
+581fab2b-a,Electronics,94.83,0,285
+c7008243-5,Sports,313.21,30,170
+4efe9fdd-5,Clothing,249.86,50,255
+e4e13f0f-d,Sports,250.31,50,387
+a6212e2e-a,Sports,330.56,15,384
+a28d5119-1,Clothing,377.06,5,262
+78ba3547-b,Toys,337.91,5,362
+8243d88e-e,Toys,52.16,10,430
+8f3a5380-9,Toys,95.61,30,262
+04284bd4-a,Sports,155.98,20,351
+6d626cf9-1,Electronics,18.56,15,192
+66f17216-a,Electronics,26.86,15,190
+8264844a-e,Home & Kitchen,202.35,30,313
+ad1f054b-2,Electronics,263.22,15,251
+3d5fe14e-1,Clothing,298.79,15,423
+27fb556a-3,Clothing,457.07,0,469
+38362f6f-1,Electronics,442.46,0,176
+35f1c343-b,Electronics,255.81,50,414
+100f5bd6-3,Electronics,32.89,0,204
+e23f5984-b,Clothing,251.88,10,463
+85edc59a-c,Electronics,120.68,15,233
+625ff553-e,Sports,30.21,10,202
+c3fe6a0a-3,Books,246.17,5,262
+c1fa2667-b,Toys,329.85,10,309
+d565ad1e-7,Toys,437.06,0,273
+7e5f9dad-d,Home & Kitchen,204.0,5,242
+91e98516-d,Books,207.44,20,437
+1d206f3c-3,Home & Kitchen,463.6,25,410
+769c6a76-6,Home & Kitchen,359.03,25,197
+9b6c0128-f,Books,384.7,15,204
+d570140f-e,Electronics,298.02,25,350
+c8170aaa-e,Clothing,400.84,10,383
+3cd49ea6-1,Electronics,464.71,50,270
+fb711bf3-4,Beauty,16.11,15,329
+135f9af5-5,Books,484.74,30,468
+43e4b99f-6,Toys,365.33,5,415
+317d65ec-f,Electronics,176.01,0,295
+b44206d3-1,Clothing,464.89,50,208
+f9677a24-6,Clothing,401.8,10,161
+0614e833-2,Clothing,210.96,15,440
+3c8d5057-5,Toys,67.54,20,477
+624d50b3-3,Books,31.73,5,213
+76d8a34e-b,Electronics,298.26,20,422
+1f2ee9a2-5,Sports,247.86,20,333
+03f4ca3b-8,Clothing,362.83,30,376
+e8f069f8-6,Books,476.64,50,348
+d3a6af1a-7,Sports,388.38,5,442
+19c52cc9-5,Sports,337.33,15,201
+f0767145-7,Books,494.14,50,176
+101ade60-3,Sports,455.94,30,397
+cb17280c-0,Beauty,221.53,0,268
+9885fa19-4,Books,461.56,20,241
+d31d0123-a,Electronics,168.59,20,331
+4cca89d4-4,Clothing,482.74,5,335
+b3d1ba0f-3,Books,200.93,30,449
+875caa36-1,Clothing,18.84,0,317
+eb873293-1,Home & Kitchen,109.89,15,382
+5b444a16-4,Electronics,98.61,0,398
+4462097e-3,Electronics,459.61,10,333
+e9dd6729-5,Electronics,28.61,10,378
+82cc06cc-0,Toys,378.85,20,347
+fbe1f8ba-0,Beauty,78.87,5,309
+c070b4b6-1,Beauty,362.99,15,297
+6341d191-8,Sports,198.38,25,417
+87e5625f-c,Books,471.66,5,321
+25a9c188-a,Clothing,68.68,30,205
+8adaa913-f,Books,289.83,10,317
+46a92f74-2,Sports,343.43,25,416
+37d88ca0-0,Toys,196.34,5,405
+c7378104-f,Books,183.04,30,335
+49ed6d0d-8,Sports,182.28,20,233
+46500eae-c,Toys,329.94,15,279
+d701275e-9,Home & Kitchen,50.63,50,344
+584a7808-7,Sports,40.61,30,222
+79a38003-0,Home & Kitchen,73.19,30,319
+868c12ec-1,Electronics,140.84,25,422
+4d8fc1fb-3,Clothing,460.17,15,164
+272d1c1e-d,Toys,248.71,15,306
+bf98ce15-f,Electronics,33.88,10,414
+a2f4cd32-3,Books,464.05,20,358
+1ff851f4-7,Electronics,180.19,30,252
+605fd5fe-7,Beauty,329.78,10,222
+7150ff17-b,Sports,336.05,30,417
+df7cd075-2,Toys,95.06,5,319
+b46bc60c-b,Beauty,94.97,30,302
+eb885daf-7,Beauty,443.0,5,352
+22ed0aa6-5,Sports,230.09,15,475
+d6276dee-6,Toys,65.75,0,276
+6dc8bf66-f,Clothing,116.39,25,435
+e4426847-7,Books,315.16,50,312
+bcdaa92b-c,Sports,133.14,25,177
+63132048-a,Home & Kitchen,167.4,10,232
+77363464-a,Clothing,43.48,25,250
+5e26e41d-1,Electronics,14.54,5,369
+7d7d6526-3,Sports,302.08,25,387
+7d1006e3-7,Home & Kitchen,474.64,5,212
+f4dc1f9e-3,Toys,496.29,15,220
+97a50e99-a,Electronics,397.3,50,181
+3d3bc42d-c,Beauty,284.26,50,196
+a7ddfd45-9,Toys,146.22,50,395
+2c2faf85-a,Beauty,134.41,20,358
+7efcfbc1-8,Toys,277.93,50,372
+505d5a39-d,Toys,175.25,30,206
+89fe8404-d,Toys,12.14,15,352
+e2a6302f-9,Books,333.82,30,210
+dc1f1f13-f,Books,125.36,30,199
+89ddf5fd-7,Electronics,109.9,15,280
+c979e542-7,Clothing,473.91,30,199
+2166f519-9,Electronics,294.36,50,284
+fd8c870e-2,Clothing,460.68,10,448
+e94d9977-3,Home & Kitchen,362.96,10,212
+19f3b34c-3,Beauty,95.3,5,241
+c4910d2d-c,Books,259.1,0,322
+45f9b126-8,Books,205.38,30,311
+7b2b5520-9,Clothing,370.12,10,472
+ab136d2e-f,Home & Kitchen,97.7,15,466
+eedfbf75-6,Home & Kitchen,306.03,50,432
+5697bb51-3,Toys,72.75,20,383
+2ee16cb9-f,Clothing,186.26,20,165
+22332c97-1,Toys,16.7,50,416
+c2a9a44a-4,Toys,191.15,50,321
+47f7d81c-2,Sports,232.55,25,322
+04a731ad-f,Home & Kitchen,234.62,15,377
+106c929a-7,Electronics,31.72,20,305
+fb8256e8-a,Electronics,159.29,0,283
+805daac9-0,Clothing,30.68,50,234
+1b911467-9,Books,285.83,10,307
+92ff2301-c,Clothing,311.67,15,211
+c968f734-c,Electronics,277.94,5,238
+a952cd60-a,Books,368.42,20,291
+58473eef-4,Home & Kitchen,379.22,15,287
+45f6a7d5-8,Electronics,265.27,25,427
+21341a74-3,Home & Kitchen,369.05,5,308
+ed14558a-7,Beauty,493.7,20,413
+9ffd92ed-4,Beauty,499.65,10,279
+1878cf5a-b,Beauty,31.78,15,332
+78fc8fe3-6,Toys,145.1,25,477
+025cebdc-b,Toys,163.27,25,282
+186cf076-b,Toys,223.69,20,240
+0c602c0e-d,Beauty,417.94,0,393
+4395c151-c,Home & Kitchen,270.76,30,447
+4bf67e4a-1,Beauty,497.52,50,400
+a2fdbbd6-3,Sports,348.59,5,223
+c4f7e6b0-9,Electronics,362.5,10,232
+4d57ddaa-d,Home & Kitchen,411.6,30,169
+4a9db56e-b,Books,206.82,30,321
+8cc9674f-9,Books,161.64,0,199
+881ea42d-0,Sports,27.22,20,239
+d12bfdfa-c,Beauty,310.78,5,445
+fab11646-d,Toys,227.18,5,227
+1524eaed-7,Home & Kitchen,383.65,15,345
+87409d7f-6,Home & Kitchen,153.01,10,414
+12dec9d2-a,Sports,202.59,30,246
+a5f0b72c-e,Electronics,464.92,15,439
+00cabebb-5,Toys,241.52,5,297
+dc52dd90-9,Clothing,153.55,30,481
+9cc7d475-d,Electronics,52.37,50,225
+ccaace6c-b,Beauty,83.47,20,458
+353a3dfb-c,Clothing,56.54,50,212
+ed3c487d-3,Books,200.97,25,436
+6088e242-d,Electronics,458.08,10,389
+54459852-1,Home & Kitchen,284.25,20,376
+44399f1d-0,Beauty,329.64,15,485
+adeb9832-4,Books,407.43,5,245
+52de41ab-1,Clothing,141.16,5,432
+ab11e8cb-a,Beauty,291.79,20,428
+65461fd8-0,Electronics,211.17,50,297
+af0a95ad-9,Clothing,461.66,20,206
+7b13c22d-e,Sports,71.33,20,385
+9f3985c8-e,Sports,208.52,15,414
+654d10d0-a,Toys,251.47,25,382
+cb073c91-8,Sports,249.57,50,277
+9d539845-5,Home & Kitchen,327.6,30,210
+6c517e1f-0,Home & Kitchen,79.12,50,478
+6e5bd6db-0,Beauty,419.33,20,404
+f8863647-9,Sports,485.37,15,189
+5771604f-4,Electronics,381.37,20,297
+40efd882-7,Electronics,43.97,10,281
+a4d41da0-b,Sports,18.83,25,194
+1f1d87d4-7,Sports,407.91,10,316
+66140a6e-1,Electronics,242.01,50,345
+7b67e89b-6,Toys,284.88,30,399
+7df8467d-8,Books,277.39,20,311
+8a92200f-7,Electronics,93.6,0,481
+9818c76a-8,Electronics,300.06,0,375
+73871064-1,Clothing,34.36,5,327
+5be37573-b,Toys,258.4,25,185
+ca06715c-d,Clothing,347.13,5,163
+c92b0f0c-c,Home & Kitchen,480.8,25,176
+9bb22a8b-a,Home & Kitchen,92.03,20,283
+3d7c2710-7,Clothing,341.83,5,420
+207d5b1e-8,Electronics,354.66,30,209
+f0074454-3,Books,441.84,25,203
+4ad3c592-c,Home & Kitchen,481.86,5,258
+c3265e2a-f,Books,382.18,10,369
+80b52540-7,Clothing,161.02,30,310
+fd1ec13c-d,Toys,477.48,0,187
+b9bf1e92-b,Books,301.17,25,169
+7e635ae5-c,Home & Kitchen,428.08,30,321
+e876784d-7,Electronics,260.66,30,213
+791be972-6,Books,126.22,0,466
+b99c3aa9-c,Books,15.04,25,416
+b14ddad9-e,Home & Kitchen,474.05,20,344
+650cfb0b-7,Home & Kitchen,261.58,30,448
+4800e623-9,Sports,484.13,30,180
+88556210-7,Beauty,73.24,10,479
+28a53034-3,Clothing,342.32,20,465
+e960a759-3,Home & Kitchen,69.64,20,217
+263982c9-a,Books,407.48,5,256
+4a32c0a0-8,Electronics,99.49,20,287
+aff7f14b-0,Toys,330.6,30,248
+11fb33c7-a,Books,90.77,5,341
+1990cfc9-5,Beauty,130.13,10,162
+e20f0e47-6,Books,441.92,30,367
+fc294888-f,Electronics,256.51,0,313
+289544ad-2,Sports,392.04,20,418
+5a4c2797-7,Home & Kitchen,496.82,0,375
+76639c92-e,Electronics,206.43,25,308
+872b8abe-f,Sports,278.41,5,174
+a90e4600-6,Toys,221.23,25,271
+01f61e5d-d,Toys,253.31,5,187
+3f220d8a-4,Beauty,85.36,50,220
+a0a861a7-0,Clothing,122.21,20,285
+7e13033b-9,Sports,40.02,50,345
+b843f1a2-3,Sports,482.59,15,348
+22c19343-0,Clothing,343.71,50,421
+58a12720-9,Books,407.74,5,379
+02c35efa-3,Books,274.57,10,386
+9824cc72-0,Home & Kitchen,181.18,20,456
+36a204de-b,Books,301.21,30,214
+80b28ec1-1,Sports,378.97,0,187
+f0dc391c-b,Home & Kitchen,291.57,15,230
+8dfa80a9-a,Sports,374.81,50,380
+b720ce22-f,Books,285.95,20,210
+563623c6-f,Electronics,309.01,25,191
+09144443-b,Sports,499.96,50,249
+17cc8844-e,Electronics,376.17,50,209
+fc077491-6,Toys,189.0,10,215
+0d2ea5a2-6,Sports,471.23,20,441
+c2e06025-6,Books,108.88,15,291
+bc80dadc-b,Home & Kitchen,176.92,0,181
+e695e227-e,Beauty,172.71,25,376
+deec827a-3,Toys,403.23,5,178
+a6a347dd-a,Books,224.05,10,367
+9f0098a7-5,Beauty,458.94,0,412
+a6189391-d,Home & Kitchen,186.09,0,316
+34d122bf-5,Toys,94.02,20,469
+7b4233d2-d,Toys,178.71,5,200
+bc8165dc-d,Home & Kitchen,138.31,10,361
+f12eee5a-c,Beauty,61.62,15,467
+475d4cf1-c,Sports,493.04,0,409
+a3b21d1b-b,Clothing,93.28,15,273
+70b6b201-4,Toys,459.49,15,483
+7dd40ade-e,Home & Kitchen,246.03,15,354
+48231ccc-5,Electronics,172.66,0,239
+4b41a5fc-3,Clothing,233.2,20,351
+2787e47c-9,Toys,304.79,30,216
+143dd678-7,Books,124.42,0,176
+82b5be1c-d,Electronics,27.16,10,386
+66d84c63-e,Sports,420.22,0,438
+7b826100-c,Beauty,187.72,30,443
+8f17be1c-d,Toys,363.56,50,362
+2db00657-3,Clothing,256.97,50,440
+ff777544-d,Toys,389.7,10,394
+5be07323-d,Home & Kitchen,242.13,30,458
+7c691a42-9,Beauty,415.0,5,346
+6ed3d2f3-3,Toys,205.38,10,233
+a72d9534-6,Electronics,402.37,0,274
+94d72c63-f,Toys,130.6,0,417
+f5925221-d,Clothing,401.02,15,354
+d6f32dd8-f,Electronics,376.07,30,341
+264cc6f2-b,Books,361.79,50,219
+796274f4-9,Electronics,477.51,25,193
+baf6af3a-2,Toys,209.1,50,271
+54768b80-4,Toys,367.38,15,316
+77b44571-a,Beauty,49.99,20,399
+98991933-6,Home & Kitchen,223.13,5,397
+a315c8f4-1,Clothing,481.77,10,239
+71e34e7e-d,Toys,333.36,10,428
+4b0a0467-d,Books,460.93,20,375
+ab545833-e,Home & Kitchen,198.84,50,276
+6c180001-8,Books,335.09,20,199
+60305bf5-b,Books,410.41,50,332
+d3dc4ba6-3,Electronics,393.83,50,252
+e2c3e03c-f,Electronics,398.76,30,361
+87109b74-d,Clothing,455.43,15,319
+ed1adb23-e,Toys,352.31,20,208
+f163326a-e,Sports,166.63,30,422
+4c7cdc78-5,Sports,362.57,5,334
+0ca0aa41-4,Books,96.73,25,208
+c5cc3ef2-7,Sports,420.31,50,422
+a57ea4d6-b,Sports,56.1,25,233
+545a2eb9-d,Sports,349.84,15,290
+3636152c-4,Books,358.31,15,461
+b75f0c2c-f,Toys,361.61,15,363
+dce8b779-7,Electronics,450.48,5,174
+5b6f25c3-7,Books,330.31,15,198
+63ae55e3-c,Electronics,151.85,15,323
+81a22f1c-4,Clothing,276.74,0,316
+4583a4bf-b,Toys,345.43,15,204
+510084a8-1,Books,389.96,15,343
+22eb5551-c,Home & Kitchen,16.18,5,179
+94f6ab2a-a,Books,226.93,30,161
+9fbcb30e-3,Electronics,116.1,10,317
+2a410eda-f,Toys,216.97,50,335
+d0a161db-1,Electronics,33.25,5,401
+25ef6419-9,Electronics,181.56,0,259
+6f11ccc4-8,Clothing,350.58,0,232
+5524ed33-7,Clothing,222.11,50,428
+b278799f-b,Beauty,445.45,15,181
+4ba7e11d-7,Home & Kitchen,449.09,25,177
+f99b8f8a-c,Beauty,206.19,0,197
+c8d049e0-d,Home & Kitchen,19.55,5,324
+44002de8-0,Home & Kitchen,211.62,0,282
+e77e1af7-5,Electronics,152.24,50,373
+81dfd444-c,Toys,222.36,0,282
+5f4bc204-f,Home & Kitchen,95.92,25,376
+1e2f69da-1,Beauty,335.09,0,247
+7bf2973a-6,Toys,241.25,20,333
+52599214-3,Sports,123.91,25,171
+c9dde1e5-4,Beauty,170.1,15,240
+946ec3fd-e,Sports,12.24,10,442
+0be9c57e-b,Electronics,496.29,10,429
+aaba4dcc-7,Beauty,214.77,50,321
+0169a3ab-a,Electronics,453.64,5,328
+73014b58-9,Toys,63.98,25,247
+d885509a-e,Toys,343.35,20,222
+808ca9d1-8,Toys,46.68,20,471
+1dacee5b-e,Toys,269.06,10,211
+60dec6bb-a,Sports,145.91,15,363
+dcae4939-5,Electronics,300.96,0,352
+dbee7a4d-d,Toys,83.67,10,466
+037ddfe3-9,Toys,491.44,50,423
+84be7a5a-2,Electronics,436.45,20,249
+81899877-0,Sports,177.91,5,287
+c89c4459-0,Toys,53.69,20,357
+feeeabdc-c,Toys,179.55,10,170
+c3c887cb-a,Toys,348.31,15,324
+1af0660f-c,Sports,301.91,0,215
+5e6ccb0a-7,Clothing,227.08,15,442
+18cc36c2-2,Home & Kitchen,330.53,50,380
+306ad08a-7,Electronics,286.47,25,330
+db0c8025-6,Electronics,130.6,10,395
+9ca7c504-6,Electronics,465.45,15,209
+69bcf5e6-c,Clothing,117.74,20,306
+de178a79-4,Electronics,265.67,50,419
+835c8ffe-7,Books,95.18,0,178
+14272c92-f,Clothing,101.4,5,416
+6af45722-8,Home & Kitchen,309.63,25,235
+9229ec2c-a,Sports,147.6,50,363
+74c0aea6-2,Clothing,77.64,25,169
+26a7d768-2,Beauty,407.12,20,408
+1f8f04df-b,Books,173.32,10,291
+cab96b83-5,Beauty,335.86,20,243
+774ad254-3,Home & Kitchen,110.52,10,390
+1b7806c8-8,Beauty,300.6,15,200
+d5175f47-8,Books,312.78,15,187
+d9c29578-e,Clothing,499.91,30,349
+cd65d18d-a,Home & Kitchen,170.31,20,396
+49723911-b,Sports,78.11,25,269
+e124f0dc-9,Electronics,305.34,15,205
+c2819460-a,Sports,426.79,15,202
+3ebedb00-4,Home & Kitchen,375.73,25,393
+6610b307-5,Sports,163.86,25,293
+d7790ef9-1,Electronics,203.98,10,367
+44fb96a5-a,Sports,145.31,15,467
+647df5b4-8,Clothing,221.16,30,383
+a73807ae-d,Toys,256.42,0,332
+6406a187-e,Sports,431.38,0,421
+134467bd-1,Sports,345.75,0,311
+08c3ba2b-2,Beauty,96.68,30,442
+81312f44-7,Clothing,438.0,5,180
+641eeb23-2,Sports,272.29,0,299
+57d4489b-e,Toys,84.09,5,413
+e61eaba4-4,Clothing,432.25,0,357
+351120fc-3,Beauty,179.62,50,280
+d65d0c73-0,Electronics,302.95,15,248
+d1f197aa-d,Toys,345.41,10,297
+650935e7-9,Books,167.63,25,483
+f965f3ef-d,Sports,436.92,20,173
+184903ed-3,Toys,168.92,10,258
+d0f527a9-b,Toys,42.14,25,361
+085249b5-7,Sports,178.91,30,470
+1c05ddd2-1,Electronics,322.75,15,445
+2b0c246f-9,Toys,123.27,30,251
+631e9a74-1,Sports,361.29,5,347
+c96f4099-4,Home & Kitchen,275.42,10,427
+43c1eda4-5,Books,321.92,50,299
+2b2b723a-0,Home & Kitchen,292.11,30,241
+abcdf90c-4,Sports,444.49,50,168
+78a16480-d,Beauty,182.13,50,386
+5a098fec-d,Beauty,412.71,20,450
+d3fd1a35-2,Sports,235.28,25,350
+441abad4-6,Home & Kitchen,309.9,5,458
+2b2d1b01-d,Beauty,327.07,5,353
+0a406fe0-9,Sports,459.22,0,172
+568ad177-d,Books,323.0,0,231
+68fb956a-8,Home & Kitchen,170.44,15,319
+d64ddbd5-c,Electronics,354.49,30,161
+2bdb1ae5-9,Electronics,277.17,30,484
+02895d3a-7,Sports,169.69,20,319
+c6be69d5-3,Home & Kitchen,209.19,20,460
+0e1d89b5-2,Home & Kitchen,258.78,15,393
+3be497cb-0,Sports,480.49,0,289
+4eaba910-8,Sports,465.95,20,234
+7bfbfd94-7,Clothing,195.8,20,207
+099b46cb-1,Home & Kitchen,100.78,0,469
+a9b57c56-1,Toys,31.79,0,253
+36f6022c-6,Home & Kitchen,493.53,30,370
+10fcf229-3,Toys,190.3,50,193
+de5e986e-7,Beauty,22.77,50,314
+26b61a09-1,Sports,307.9,15,397
+1d3bb5fd-9,Toys,150.05,0,437
+0b938bcf-d,Toys,347.71,10,178
+8d5bccd1-3,Toys,136.24,0,423
+6a9e51ec-b,Beauty,146.47,10,339
+25458e74-d,Clothing,448.81,20,281
+b33afedd-a,Books,286.12,30,193
+cf11150e-3,Toys,308.37,50,292
+84c9273b-5,Electronics,286.47,5,322
+d986c065-8,Books,350.59,0,216
+2c14c5cd-a,Clothing,254.32,0,277
+18df8182-6,Clothing,297.32,0,230
+ec20f7ba-1,Toys,219.48,25,286
+f367ee26-d,Books,134.52,30,238
+4d872e66-a,Sports,34.07,10,456
+0b9b177e-a,Electronics,339.21,25,258
+63799771-c,Electronics,335.09,15,174
+fb8a4697-5,Sports,338.0,10,324
+3b188e25-6,Toys,348.31,20,360
+d68623f3-f,Toys,357.9,30,259
+5e4309df-9,Sports,27.03,15,336
+cb932ccc-5,Books,465.64,0,263
+e594132a-a,Beauty,416.88,25,190
+a0b69e5a-5,Beauty,170.97,50,252
+db38b528-1,Home & Kitchen,460.19,50,426
+e75ab5dd-f,Home & Kitchen,327.39,15,432
+cae07d8a-c,Clothing,451.34,10,373
+0de2edaa-c,Home & Kitchen,297.02,5,354
+ba2c4d0b-b,Beauty,359.48,10,195
+d1ea2388-0,Beauty,105.45,10,356
+9964a78a-f,Sports,30.46,30,275
+1bd34f46-f,Books,247.76,25,456
+5ade36b9-a,Toys,260.81,30,258
+b83f2b71-b,Toys,21.41,5,372
+06b65d09-0,Beauty,27.13,30,236
+036f2fe1-2,Clothing,304.86,15,228
+74744f71-4,Books,69.37,0,182
+89625cd3-1,Clothing,50.93,20,202
+ae8d3eae-6,Toys,337.58,5,256
+210baeee-c,Clothing,252.65,10,455
+840db3df-5,Electronics,400.08,50,347
+36e9439c-e,Home & Kitchen,320.67,50,171
+ad73b872-2,Clothing,427.29,5,261
+83292e34-7,Clothing,396.76,5,228
+86a55194-0,Toys,61.37,20,476
+ab4ed7ce-a,Home & Kitchen,200.57,15,335
+aaefb8df-e,Books,457.69,20,321
+f07e1c4a-e,Sports,56.97,0,371
+99c19952-1,Clothing,289.27,15,380
+093ae015-8,Toys,365.26,0,465
+081c5408-8,Books,44.14,50,227
+6f9c6a73-0,Beauty,32.7,5,191
+2c6437d5-0,Clothing,223.04,25,242
+8d8504b9-2,Books,256.64,10,244
+1943f09a-4,Sports,82.48,10,301
+8961518f-6,Home & Kitchen,493.82,25,167
+1bb48f49-2,Home & Kitchen,430.5,5,388
+ad3dd065-0,Toys,12.1,20,403
+23e94b32-e,Sports,474.41,0,233
+9412f332-b,Toys,243.52,15,464
+d1db315e-8,Sports,394.83,20,459
+cb403165-3,Books,175.86,0,255
+4068c6cc-f,Sports,237.77,20,391
+759b4aed-d,Books,143.21,5,471
+f8103189-a,Toys,222.65,20,394
+26b7a7e9-d,Sports,348.18,0,168
+e66a4d85-4,Clothing,152.52,0,471
+79a3bbca-d,Books,448.26,30,388
+0c60ae4e-f,Clothing,459.22,10,187
+16aa4a41-3,Home & Kitchen,432.11,10,422
+e53da9e7-5,Clothing,320.98,10,484
+1d60b62b-e,Sports,104.47,10,253
+13d2a56c-7,Sports,249.4,30,374
+16d121ec-a,Books,39.02,25,362
+b80cc9c3-a,Sports,185.53,15,258
+f7e0f6f0-f,Clothing,463.55,15,417
+efd11390-1,Electronics,277.05,25,444
+19603713-f,Sports,159.03,20,428
+7c2e02c5-f,Home & Kitchen,53.69,25,297
+e359b315-2,Sports,350.46,5,187
+42fdf304-9,Sports,358.64,5,238
+9d0e8539-f,Books,33.8,30,436
+f0095bdf-b,Home & Kitchen,188.8,10,257
+c0ecbccc-e,Sports,178.75,15,180
+10c04914-7,Toys,185.17,0,228
+5d4c0577-0,Sports,417.51,0,225
+58aa2a00-6,Books,407.59,50,229
+575b7120-d,Beauty,230.14,20,238
+e3135ee0-b,Beauty,207.06,30,468
+dcce0ed9-3,Electronics,166.69,15,243
+2e82b12b-e,Electronics,476.53,15,312
+9083dac4-8,Beauty,420.41,0,366
+a9b75daf-4,Books,408.9,5,339
+9b2eb9f8-b,Clothing,311.9,0,416
+a604afd7-c,Electronics,160.11,30,189
+98bb0634-3,Toys,100.64,15,395
+4c5d05af-4,Clothing,79.12,5,256
+10f9fb68-2,Toys,115.23,25,278
+b8265a41-6,Clothing,212.08,10,290
+3ad00ebe-5,Sports,25.95,15,163
+61a89e00-6,Toys,336.87,0,173
+5c344e7e-8,Beauty,43.47,50,168
+fdb8a7f4-c,Electronics,185.53,20,340
+7586ecdc-5,Clothing,483.62,5,250
+1bbfa35f-1,Sports,30.28,30,417
+9c4d9173-9,Books,482.52,5,346
+3a0742ad-c,Toys,359.32,0,299
+80655c44-1,Toys,386.46,30,296
+fcd5caf1-3,Books,36.34,50,387
+c1a2396c-c,Toys,328.64,25,441
+bf0e5aab-7,Home & Kitchen,141.52,20,280
+ae8de22c-f,Sports,310.66,50,367
+a4397891-6,Sports,311.01,5,484
+0e60eaee-3,Toys,60.79,20,344
+2b2e8a4f-7,Home & Kitchen,252.0,30,481
+023a6d02-4,Clothing,213.0,25,165
+d41b9799-8,Electronics,191.77,25,218
+ec04ee8b-b,Clothing,239.31,10,351
+58f0bb2e-0,Home & Kitchen,212.42,50,452
+3f5fd069-8,Books,209.08,5,267
+634aa8eb-d,Clothing,394.82,0,195
+c11cf3e8-4,Home & Kitchen,305.94,5,266
+27d825b4-e,Home & Kitchen,390.66,15,160
+0a113398-3,Beauty,402.97,50,277
+06506e6c-8,Beauty,280.99,30,448
+dee40ad7-9,Sports,309.55,10,332
+bd32ad96-9,Beauty,471.41,25,345
+ad922c38-1,Sports,46.48,0,305
+253d232c-e,Beauty,338.0,0,416
+0e16bb68-d,Home & Kitchen,171.64,20,259
+6a198ec0-3,Home & Kitchen,488.06,15,402
+a80e01a6-4,Electronics,334.67,50,417
+87786ea9-7,Clothing,448.02,30,314
+1f7ef990-f,Clothing,424.33,5,183
+9febb427-c,Sports,56.69,25,414
+87f0d140-4,Sports,431.13,50,464
+c756485e-5,Clothing,353.93,0,273
+7c8cb492-9,Toys,54.61,0,212
+bf6ca00b-4,Home & Kitchen,90.79,0,289
+97f6e07b-a,Beauty,424.21,30,236
+c46ba7fb-a,Beauty,45.8,25,225
+d00045a5-7,Toys,301.6,20,190
+ecd83830-9,Home & Kitchen,241.97,10,287
+91e28e7b-b,Books,335.84,5,295
+68c330d6-1,Sports,317.46,0,466
+8a241150-c,Clothing,53.79,5,415
+d3076535-1,Beauty,459.39,30,298
+e0b93f87-1,Home & Kitchen,175.33,20,340
+956bb0df-7,Beauty,69.77,30,243
+5dfd69d9-d,Beauty,157.11,10,230
+df2752c8-3,Beauty,102.7,30,264
+2f19e634-2,Clothing,312.85,25,282
+75c9c188-a,Clothing,317.59,30,377
+eff5b46d-f,Beauty,218.68,10,451
+e436cd21-e,Sports,56.45,50,447
+7d443016-7,Beauty,85.54,25,293
+c6e8e685-2,Toys,200.44,50,163
+7f815c17-f,Electronics,132.23,25,442
+41de6e0b-3,Sports,217.61,10,441
+921d4f13-4,Books,227.44,10,351
+8432da61-7,Electronics,154.15,20,252
+d19df4c1-7,Books,19.42,0,313
+eb72dd01-6,Home & Kitchen,423.01,5,455
+4fc43503-b,Electronics,352.47,0,309
+5c194e4d-5,Books,323.85,50,165
+8583655b-4,Clothing,96.34,20,409
+77eebc88-5,Toys,11.54,25,358
+dc145f91-a,Beauty,376.52,0,479
+75d4498d-1,Electronics,258.91,25,357
+4aab29e2-f,Sports,209.44,30,392
+aacdd2c4-c,Beauty,489.9,10,362
+d1247110-6,Beauty,371.81,50,428
+8227ea90-9,Toys,40.04,0,425
+4a86d1fb-3,Sports,384.6,5,424
+2f32fabd-6,Books,259.47,15,430
+8b31adf8-f,Sports,483.34,5,398
+cd056501-f,Toys,253.19,5,342
+2c009751-7,Toys,419.4,50,346
+c3862bfa-7,Home & Kitchen,245.52,20,183
+f2a45064-4,Clothing,280.31,10,292
+7deb0c35-a,Sports,67.67,50,307
+3f2757b0-5,Home & Kitchen,364.44,20,472
+b072608e-d,Books,44.29,10,231
+d86224a6-5,Beauty,461.31,30,482
+c157dce7-a,Toys,473.17,10,223
+c77431bc-6,Home & Kitchen,133.49,50,214
+680206e7-9,Clothing,430.32,15,342
+35c9ea9d-e,Sports,466.36,0,465
+8298b8bb-a,Electronics,274.4,25,451
+ee387572-7,Books,29.3,0,316
+50e481c0-5,Sports,122.96,15,286
+17c41fd0-2,Beauty,333.18,10,379
+d831b4b9-c,Books,221.69,5,279
+889d5066-d,Toys,250.53,10,160
+903cb2e0-3,Electronics,135.86,15,459
+e39375fe-c,Electronics,225.4,15,393
+7121fc95-b,Books,172.45,0,477
+adfc7a07-5,Sports,89.42,5,406
+a55367ed-0,Beauty,488.14,50,439
+efa8cfb9-7,Electronics,107.61,25,391
+925e172b-3,Toys,463.05,15,355
+b52f485a-a,Books,304.57,5,478
+4ae93dc1-f,Electronics,32.78,30,335
+e4c4fb8c-b,Sports,56.83,30,279
+edb15fad-1,Home & Kitchen,158.57,25,485
+5c4eb084-f,Toys,251.72,5,242
+51a993a4-f,Beauty,10.09,15,354
+228f3945-3,Toys,303.28,0,310
+7c30f0b9-c,Electronics,312.92,15,194
+319ec9d3-3,Home & Kitchen,402.85,15,424
+8701783e-b,Home & Kitchen,70.44,25,430
+d8d5bbee-a,Beauty,181.51,15,181
+9bed94c1-4,Toys,448.07,0,333
+cdb2d37a-5,Books,211.53,30,187
+fd629be3-9,Home & Kitchen,196.14,25,292
+b7c4ad12-d,Home & Kitchen,295.8,0,252
+9049ae69-3,Books,362.26,0,326
+6acff5a9-7,Sports,188.56,15,319
+6f64c12e-e,Sports,308.79,25,343
+5055970f-f,Toys,53.1,50,379
+c21445bf-b,Toys,204.25,20,338
+e6dbc8e3-b,Clothing,117.23,0,384
+3e468113-f,Home & Kitchen,156.3,0,287
+76aa1ea0-8,Home & Kitchen,486.62,30,254
+e94fcef7-e,Beauty,221.1,5,456
+96dad3eb-2,Beauty,377.15,0,469
+402f8310-9,Clothing,198.3,30,428
+cc29b70c-9,Electronics,450.82,5,286
+564328a3-b,Beauty,214.8,25,310
+d041bc6d-6,Clothing,178.58,50,451
+190f2c5a-4,Sports,237.9,30,322
+d5415a88-b,Beauty,34.93,50,366
+31b244c4-e,Clothing,64.64,50,403
+3154eee7-f,Toys,170.08,50,168
+a5cfe885-e,Beauty,276.05,10,433
+39fae33a-1,Beauty,48.61,25,319
+d44a2095-d,Toys,367.32,20,325
+939d5107-f,Electronics,34.09,20,407
+364eca44-2,Clothing,468.37,15,302
+0a7f521e-d,Beauty,358.01,5,265
+d3cf0826-b,Home & Kitchen,131.56,30,452
+1f32d8cc-c,Books,123.61,15,250
+a99dea2b-5,Toys,263.15,5,262
+d8eb9263-5,Clothing,333.61,10,181
+38cf2d1c-5,Books,285.17,0,270
+4c7f1e50-b,Toys,494.04,5,372
+842ffe80-1,Clothing,405.3,20,379
+293a38fe-d,Clothing,450.5,5,284
+37d5ff11-d,Toys,342.2,30,360
+b1877937-7,Sports,141.64,50,366
+a700768e-1,Books,420.46,5,433
+1e2d8f24-1,Books,154.85,30,172
+a2638fa2-0,Toys,14.98,50,212
+2dc07f56-1,Electronics,222.53,30,454
+531dde67-e,Electronics,469.59,10,305
+8546c4a0-9,Electronics,159.68,30,275
+56e92b46-5,Clothing,332.28,5,438
+b8db29c2-8,Clothing,43.45,25,433
+d36761e5-d,Home & Kitchen,189.9,15,473
+54a76b2a-1,Clothing,469.25,15,370
+cf82e4f9-e,Home & Kitchen,176.77,0,313
+8df2d84a-8,Home & Kitchen,50.18,50,274
+7ce62017-e,Electronics,472.29,0,376
+570d72b8-e,Books,168.18,5,277
+3230bb6d-2,Clothing,302.29,10,428
+cc0deb02-8,Toys,229.69,25,252
+a4d482bc-d,Sports,39.88,5,325
+23f814dd-0,Clothing,487.58,15,367
+26fe9d8a-2,Beauty,435.68,0,239
+8851dc3a-b,Beauty,246.05,30,475
+8c3a1e6d-f,Toys,354.39,10,174
+c908ffae-d,Home & Kitchen,429.88,25,283
+1204b685-8,Beauty,382.0,20,240
+cfdde875-f,Sports,358.92,30,400
+6bab26fc-f,Sports,299.6,25,370
+fe92f8a3-b,Beauty,399.82,50,472
+e33efac7-7,Home & Kitchen,493.1,25,286
+f01054be-4,Home & Kitchen,367.95,30,359
+b41deede-e,Electronics,24.9,10,393
+08e2216f-5,Beauty,271.48,50,335
+4f2ee81f-b,Toys,196.43,15,484
+83154e70-7,Electronics,158.88,5,215
+82a78612-e,Clothing,79.33,20,260
+434c53a0-b,Beauty,82.45,0,298
+42d95dd7-9,Beauty,120.64,0,172
+76255c12-3,Books,41.21,0,301
+bac908ce-6,Beauty,57.34,20,258
+53007736-c,Sports,339.34,15,352
+e61f1ff4-c,Clothing,204.21,15,438
+a536d3c3-c,Toys,338.65,30,431
+ce2e6997-2,Sports,489.79,50,380
+59529419-b,Clothing,109.25,5,218
+cb7235e5-6,Clothing,51.45,15,472
+bc9dfe4a-6,Electronics,335.99,20,356
+0950f467-5,Clothing,330.38,15,185
+69c85c6c-4,Electronics,131.14,5,315
+19394d50-9,Beauty,70.91,10,455
+06057d1a-1,Clothing,60.45,20,372
+9f25d201-2,Beauty,15.53,10,370
+3f521c90-8,Sports,73.02,15,206
+db03816d-5,Beauty,145.2,15,166
+b5b87c28-8,Toys,169.63,0,175
+b6a495f7-3,Books,298.89,0,462
+88463def-0,Toys,44.62,50,308
+cd387cb1-7,Electronics,141.65,50,192
+d434ef75-f,Beauty,68.93,10,216
+5c71109f-d,Books,466.55,25,161
+1a4d08fc-9,Books,363.65,25,350
+69e5ece3-0,Electronics,332.45,50,330
+a0aee878-0,Beauty,70.54,30,231
+dde8b508-8,Clothing,419.78,20,265
+78c2c072-a,Books,229.55,15,179
+18dbb72e-4,Beauty,352.62,0,368
+f9e78c04-0,Clothing,291.47,15,290
+bab0e53c-1,Books,283.16,30,369
+d8f5d269-b,Toys,191.38,15,463
+3d9f2988-2,Toys,342.06,15,396
+17e4ef98-9,Beauty,161.34,0,426
+eca7c8f5-7,Sports,65.76,10,236
+b25e6146-5,Home & Kitchen,479.55,50,413
+873a1c84-4,Home & Kitchen,38.91,50,281
+f0aa6c04-d,Beauty,110.36,30,228
+f1d4ba1b-c,Electronics,249.3,5,220
+24762d59-0,Electronics,211.9,15,207
+99bb9054-c,Toys,442.51,0,180
+2ae18f21-9,Toys,315.06,25,467
+2a124c4b-6,Beauty,343.3,30,396
+96122269-e,Electronics,283.44,15,318
+c7e00823-9,Home & Kitchen,370.42,30,291
+b902f571-4,Beauty,196.54,0,191
+1251f351-5,Beauty,135.73,15,246
+0de4281d-7,Clothing,129.34,15,243
+27bd0cd5-0,Books,35.85,10,258
+43adcdc7-3,Beauty,247.91,20,474
+7ffbe709-f,Home & Kitchen,343.77,30,394
+4c89d93f-f,Home & Kitchen,219.9,0,477
+af4922af-0,Sports,111.63,30,369
+097b7e8b-0,Electronics,12.81,0,427
+d4f0c64c-7,Toys,42.07,15,215
+506b541e-e,Books,12.31,10,233
+d22cc472-c,Toys,117.78,10,347
+c5a7acf5-b,Sports,139.02,30,468
+033b7ee6-6,Clothing,470.95,20,484
+6a7a39f4-6,Clothing,219.54,15,373
+e6656e33-1,Toys,121.26,0,335
+67eaf6d5-5,Electronics,247.73,20,198
+ca4b2436-d,Books,96.82,5,341
+5d23a21a-a,Toys,62.47,15,258
+27c69f35-a,Clothing,367.66,20,445
+4a2530fc-2,Home & Kitchen,349.25,10,271
+0e7f9e8d-a,Clothing,130.8,25,425
+8144b8b1-3,Clothing,186.72,50,273
+12685d60-d,Home & Kitchen,364.33,30,230
+6cc3bafb-d,Toys,442.58,5,309
+8e083444-0,Home & Kitchen,114.99,5,387
+d6bdabc8-0,Home & Kitchen,239.96,50,293
+ef3686c3-d,Home & Kitchen,105.15,5,239
+78d1d70f-0,Clothing,169.17,25,196
+e812760e-5,Toys,102.19,15,363
+dbd440a0-a,Clothing,448.45,0,195
+af9fe8b3-3,Home & Kitchen,253.96,10,372
+5461a379-b,Books,11.78,50,175
+47a3946a-3,Clothing,369.37,0,188
+a5869197-0,Clothing,428.52,50,289
+de597029-b,Books,381.47,30,202
+523ad572-6,Electronics,414.58,20,437
+b5aadce1-c,Clothing,49.72,10,408
+0244459e-1,Toys,51.29,30,338
+65f8d376-1,Sports,309.46,0,475
+e139b477-2,Beauty,313.73,30,435
+20c97f3f-3,Books,272.64,20,164
+5bcb7043-d,Home & Kitchen,267.6,20,436
+2bed8c90-3,Beauty,498.34,5,164
+af4eb230-a,Toys,161.07,10,397
+cb999c1d-3,Books,282.59,25,405
+f4a3e8cd-0,Home & Kitchen,270.51,25,177
+87e3f91f-e,Beauty,486.77,30,324
+499bf772-5,Books,70.29,25,389
+9f3b277a-9,Sports,286.09,25,219
+df454d33-a,Beauty,15.28,20,168
+ad544888-c,Toys,493.29,25,164
+0461bb46-9,Home & Kitchen,499.03,50,371
+ec298b70-1,Toys,55.74,20,462
+b06f4427-0,Electronics,39.08,0,321
+d6fd4ffa-b,Books,184.5,0,194
+21e66fb0-8,Sports,23.78,25,360
+1c5dc486-3,Toys,305.11,5,245
+b9a0b553-3,Beauty,70.75,30,416
+527c6afc-d,Toys,47.82,50,430
+29fd9f4c-2,Electronics,315.17,0,433
+9dd6fa49-2,Home & Kitchen,391.15,30,252
+fa9b0c94-c,Home & Kitchen,208.82,0,382
+898d3b83-7,Clothing,167.14,10,169
+3bac057e-7,Toys,103.58,30,396
+4c32a366-9,Clothing,330.62,30,436
+a599e26a-7,Toys,332.62,20,205
+2d6d02c8-3,Electronics,378.56,10,201
+a57d6d95-d,Toys,316.26,0,391
+9f8a2ddf-4,Home & Kitchen,342.44,20,189
+1cc77022-7,Beauty,397.84,30,199
+1754a1c2-0,Electronics,108.21,10,202
+39dbd736-8,Home & Kitchen,18.66,0,377
+75b4dee8-f,Beauty,409.47,30,220
+21cd54a6-b,Home & Kitchen,173.97,30,170
+fe8c0849-5,Beauty,168.6,15,357
+40253e54-c,Home & Kitchen,339.21,10,290
+bdcbf1db-5,Electronics,285.03,25,275
+3aae97ce-e,Toys,248.35,0,309
+397a849e-9,Home & Kitchen,457.3,0,349
+5e8d2fa4-b,Beauty,473.99,30,339
+fbe0711d-8,Home & Kitchen,374.73,15,313
+f48ee0b6-4,Books,98.06,0,275
+3153fc70-c,Sports,96.7,15,473
+df647eab-1,Sports,242.2,30,202
+1094a34f-c,Home & Kitchen,68.81,25,435
+06e64a6d-9,Home & Kitchen,279.24,50,413
+5256329a-b,Electronics,157.2,10,336
+94d1d4e5-8,Sports,100.84,20,416
+346ca473-d,Sports,475.29,25,419
+c0b2e627-a,Home & Kitchen,354.3,25,470
+e86bbd6a-c,Electronics,411.94,0,343
+9e362869-e,Home & Kitchen,394.76,25,398
+14f61c03-2,Beauty,145.13,25,321
+d415a5a0-0,Home & Kitchen,357.28,10,464
+13e61b83-0,Electronics,471.26,15,226
+0a207bc4-2,Home & Kitchen,266.52,20,359
+966fffa4-8,Clothing,424.42,5,160
+73b70ac2-6,Toys,340.82,0,342
+e4712712-5,Clothing,14.61,5,379
+1be08cb5-0,Beauty,361.82,20,173
+26f79595-6,Books,408.43,50,361
+da3142f3-3,Clothing,298.3,25,192
+1c112403-d,Sports,107.22,0,326
+ea327b14-f,Books,62.65,50,355
+b5f17aa1-3,Clothing,388.74,15,195
+27f8c0d1-a,Electronics,170.72,5,346
+616ab617-1,Electronics,427.8,20,262
+1db0a0d7-d,Sports,172.15,0,235
+a45383ed-9,Clothing,123.37,25,308
+36253681-2,Beauty,395.77,20,435
+5211bcb4-4,Electronics,326.73,15,224
+936b1b79-4,Beauty,196.18,30,293
+45eb8579-5,Home & Kitchen,355.37,10,478
+3df45155-a,Beauty,72.64,20,405
+7b21851a-f,Clothing,94.64,30,395
+6f35afb4-0,Sports,363.85,5,188
+3b81e1b0-2,Beauty,182.2,30,343
+6f80640c-e,Beauty,114.15,20,457
+c92cf5c0-2,Clothing,135.7,15,208
+dd4ab37f-9,Beauty,421.02,25,355
+9f50736e-b,Electronics,476.41,10,359
+d6e2737f-c,Electronics,92.19,10,483
+8b9e7563-e,Clothing,258.6,15,446
+027fc4d8-d,Clothing,154.47,5,469
+e31e4665-3,Toys,57.82,10,458
+6bcafd23-8,Beauty,493.56,30,483
+94db1f71-4,Toys,92.41,50,195
+468410b1-b,Sports,433.77,20,239
+523b5770-d,Sports,368.86,50,279
+c86217cd-2,Clothing,227.2,20,208
+a7f2a6e5-d,Toys,167.04,20,249
+916c2bf4-7,Beauty,129.27,15,261
+f412ae56-7,Clothing,434.22,25,437
+89e30633-9,Beauty,397.35,10,370
+ab9809e2-9,Sports,116.85,30,210
+8b6956ef-0,Sports,356.66,5,252
+e2ea7af7-9,Beauty,202.5,50,479
+6ab73ad3-c,Beauty,373.86,30,337
+a3592481-b,Clothing,247.81,0,297
+87a2c25d-1,Home & Kitchen,298.05,5,380
+03645f13-2,Beauty,364.54,5,249
+81601d96-c,Sports,48.49,10,292
+6b482363-8,Home & Kitchen,270.36,15,213
+62f53ba1-6,Home & Kitchen,279.37,0,248
+1a2c6fc4-3,Sports,235.71,20,337
+3c244368-d,Sports,358.33,5,459
+7cd8f2a8-d,Beauty,62.99,30,178
+516465df-c,Sports,108.95,0,165
+4c20f3a2-4,Clothing,321.56,25,370
+a3bb0ee7-6,Sports,271.59,25,176
+8fb834c6-d,Books,498.73,25,272
+c7432ae5-d,Beauty,135.77,25,292
+b4683e3f-5,Home & Kitchen,341.68,10,425
+c6678dfd-e,Beauty,187.86,20,231
+d1a4dd43-b,Toys,273.85,0,275
+05276afc-4,Sports,359.75,30,446
+d0feadab-5,Sports,497.98,50,482
+b23e0152-d,Clothing,191.08,20,310
+fd3499b4-a,Electronics,425.53,30,450
+99c4efc0-3,Sports,116.19,20,371
+590b8280-4,Sports,365.32,5,236
+f007440f-4,Books,12.56,20,421
+0afa4ac3-f,Toys,133.11,10,323
+36d673d6-b,Beauty,415.94,10,464
+2ab88ed7-e,Books,57.71,15,373
+ede349c0-3,Toys,51.09,10,368
+fc66d1b9-d,Books,480.65,30,183
+b34b4437-c,Home & Kitchen,495.95,5,294
+6d0c7871-b,Home & Kitchen,55.64,15,327
+0c788a9d-f,Beauty,244.52,5,371
+df7fe53a-3,Clothing,485.72,10,332
+cd56e7a6-9,Clothing,152.19,15,395
+fc24fdb7-0,Beauty,481.03,50,178
+99312242-3,Beauty,74.24,10,217
+04e031b4-7,Home & Kitchen,108.12,50,271
+ceac98df-1,Home & Kitchen,418.85,0,444
+bd178e35-6,Sports,323.61,5,379
+5933b2dd-2,Sports,473.15,10,465
+4ecdcc3c-d,Electronics,439.29,20,329
+fde4af99-e,Electronics,415.71,5,436
+ce8d953e-0,Toys,197.33,20,437
+74f9d647-0,Sports,488.2,5,449
+54c6c382-8,Beauty,238.75,20,189
+4ae6e368-7,Books,37.22,30,376
+bb939790-9,Clothing,478.77,20,162
+fd5ff259-b,Clothing,441.14,15,363
+45a890f4-2,Toys,209.12,30,363
+ab4b088f-1,Toys,71.71,10,241
+edcf8345-f,Sports,213.18,15,345
+4ee44cb9-b,Beauty,417.6,20,346
+ac890a55-a,Books,347.93,15,457
+b7ddde9c-d,Toys,431.65,25,345
+0b325fcf-3,Sports,212.6,0,410
+e9916462-0,Home & Kitchen,485.75,20,234
+2a8e2f78-1,Electronics,230.19,25,385
+062b2e28-5,Books,90.16,5,304
+e80188fd-b,Toys,361.98,10,286
+5ee2c43a-4,Clothing,404.79,5,181
+a0ad1806-c,Books,256.82,15,359
+791f0dd9-1,Sports,442.96,5,442
+8bf6dbe2-e,Home & Kitchen,32.72,30,217
+4d852084-c,Home & Kitchen,90.24,0,358
+705d8bd6-e,Sports,117.91,0,254
+d14ce47a-e,Beauty,389.12,25,432
+fa938c93-7,Beauty,450.24,0,367
+0a815ba8-4,Books,329.33,15,179
+0a39160c-f,Electronics,344.85,5,360
+2c770b54-1,Home & Kitchen,343.88,5,383
+1eeee585-b,Books,423.67,50,446
+1a8229ee-a,Beauty,16.99,0,178
+bac7facb-1,Books,483.73,20,210
+cc0167d3-4,Sports,245.8,10,221
+3f842f24-8,Beauty,55.84,0,397
+cd6bbc83-e,Home & Kitchen,390.3,20,418
+d7510d30-2,Books,147.52,25,297
+85f214bf-1,Clothing,493.32,10,369
+ada798d8-7,Books,110.72,25,242
+fc0f7387-2,Books,164.11,5,231
+7b620e7c-8,Clothing,282.41,5,466
+5e0804fa-9,Clothing,139.5,25,474
+630e08f4-d,Home & Kitchen,413.16,15,161
+9326646d-7,Books,37.42,5,478
+fc1ec9e9-d,Beauty,464.57,10,314
+5c071a3e-3,Electronics,57.23,5,304
+eb2fb3d1-7,Electronics,254.76,0,328
+fb339072-0,Clothing,59.22,10,368
+be87620f-9,Toys,219.74,20,185
+5b7987b2-2,Toys,452.36,5,403
+6a90f71c-1,Beauty,269.81,5,389
+6c3e6be6-b,Electronics,325.14,20,280
+34578a9e-2,Toys,439.39,50,478
+38f70e29-6,Beauty,429.22,25,477
+d45881db-8,Clothing,220.71,10,397
+16fda4a4-4,Toys,12.15,5,484
+3aa04295-7,Home & Kitchen,348.91,15,215
+080a1588-6,Books,176.27,10,379
+e01a29bc-7,Beauty,115.08,15,455
+7f4e3932-a,Toys,442.08,50,412
+934af6fa-9,Sports,289.28,20,374
+713d5f95-d,Books,321.34,5,206
+35bf1d25-e,Toys,73.18,50,268
+e2cad399-f,Beauty,14.65,15,221
+fd62a479-8,Clothing,166.33,50,380
+af094393-c,Home & Kitchen,368.81,5,220
+49d274a9-8,Sports,140.52,30,395
+0e29a6fa-2,Beauty,468.38,25,271
+14634891-f,Beauty,424.75,20,451
+921cad79-9,Home & Kitchen,367.63,15,347
+6eed063d-8,Home & Kitchen,269.57,10,346
+76d6e659-f,Books,168.68,25,276
+4c54bc3f-1,Beauty,291.45,15,230
+9a339c33-e,Toys,256.77,10,357
+6a8083d3-7,Home & Kitchen,477.27,30,190
+4e37126e-2,Beauty,344.29,20,330
+ab0bb71f-3,Books,347.22,15,468
+6e814027-4,Sports,100.75,30,249
+c57a437c-b,Home & Kitchen,464.61,0,210
+6b72dfda-c,Clothing,30.49,20,419
+d289d18d-5,Sports,331.13,20,462
+be1966eb-d,Clothing,214.77,20,313
+e0798a1e-4,Home & Kitchen,55.69,50,323
+1537c930-7,Beauty,240.01,30,361
+0ec45da7-5,Electronics,151.5,10,317
+5968e23a-f,Sports,82.55,20,227
+183d23fb-b,Books,161.32,0,381
+4ce71e3b-1,Clothing,255.65,10,368
+b5f6a3f5-4,Clothing,14.37,0,213
+b376b897-5,Clothing,145.14,15,241
+337e0f42-b,Toys,447.34,30,261
+e0d9a8f7-e,Electronics,41.41,20,316
+c9ab8562-0,Electronics,469.59,5,424
+3f9836de-1,Sports,138.81,50,175
+71a834ba-5,Books,152.35,50,263
+13bca435-3,Books,391.14,15,396
+862a9954-7,Beauty,264.31,5,331
+eb3a18a3-c,Books,94.05,25,345
+05b50e6a-0,Toys,132.08,20,288
+6492654a-a,Electronics,410.94,0,293
+b848fedb-4,Beauty,299.69,5,286
+74a1e24e-f,Books,260.56,5,290
+da7b19b9-e,Clothing,92.61,50,407
+9110011e-9,Clothing,373.0,5,223
+06b288a3-1,Clothing,424.68,15,421
+2cc466c8-3,Books,105.0,10,377
+c8dbe801-6,Home & Kitchen,26.92,20,222
+1d6ec559-1,Toys,26.81,50,399
+0879e7a2-3,Sports,333.98,30,345
+21f1ffb4-5,Electronics,381.69,30,242
+909e867e-a,Home & Kitchen,212.65,50,271
+974faa53-8,Books,375.68,10,263
+d4274eed-2,Electronics,38.74,10,376
+ed5918a0-f,Home & Kitchen,185.13,5,304
+65d571aa-f,Beauty,156.51,15,479
+b71df685-1,Home & Kitchen,106.27,15,185
+2d2a8bb5-4,Home & Kitchen,137.59,15,179
+b9f308d2-3,Toys,38.62,50,365
+bccfc6f0-b,Sports,316.12,25,367
+44966d58-e,Clothing,118.28,15,391
+9a47068b-3,Beauty,120.16,10,215
+5a8fe0a0-4,Sports,286.23,0,185
+fa789197-d,Home & Kitchen,334.87,15,370
+8bf1214c-c,Books,79.07,30,409
+c5e4d064-f,Beauty,248.07,15,168
+c4e3be90-8,Books,158.66,5,281
+5140fdf2-0,Sports,233.88,10,367
+b1aefea9-0,Books,324.33,0,198
+3c274f70-1,Sports,416.78,50,240
+7d22dcf8-6,Clothing,163.98,20,199
+41474000-7,Beauty,462.11,30,473
+e957083c-5,Home & Kitchen,441.45,10,230
+d81f1f28-e,Electronics,50.81,10,291
+0fcd357b-3,Toys,341.92,20,312
+d30ee264-9,Toys,182.16,0,169
+d2e653f1-1,Books,436.44,10,221
+bd0ad888-8,Beauty,179.26,50,193
+74ebdb33-e,Beauty,471.43,0,359
+3cb64c8f-3,Electronics,431.46,10,424
+b87d7e2c-3,Home & Kitchen,230.47,0,387
+891e3976-2,Sports,421.62,15,472
+d52923e3-6,Sports,308.95,30,284
+273ce285-f,Books,187.72,20,443
+a60cc9d5-b,Clothing,273.34,15,328
+c562dbd0-9,Clothing,469.76,20,161
+14c148fc-3,Electronics,46.25,15,409
+0983e6d6-b,Clothing,115.88,25,174
+49360ce8-1,Electronics,144.04,0,445
+7af8b67f-e,Books,461.93,25,437
+004ae9eb-0,Electronics,68.08,10,228
+9cd2cba7-7,Home & Kitchen,156.47,15,352
+2d07d366-7,Toys,489.95,20,252
+74577e64-d,Books,403.62,50,254
+8289aa1a-7,Beauty,175.16,5,396
+9b4f9de2-1,Toys,481.16,15,465
+73b63a9d-3,Beauty,182.13,25,172
+a23c4e84-f,Books,289.48,20,456
+af7bd15a-8,Clothing,154.02,30,383
+1fff4ff8-8,Books,298.47,0,482
+817c1d74-7,Beauty,119.15,30,275
+19592ee3-5,Sports,328.87,5,438
+84844630-e,Sports,346.81,15,384
+c0cc6bff-6,Books,210.37,30,354
+a64f4cc1-1,Beauty,352.66,5,401
+c434508d-3,Beauty,127.78,0,333
+34f01a02-c,Clothing,61.37,5,388
+8ab203ed-0,Books,76.8,5,321
+6ffe0b61-d,Books,158.42,25,476
+482d9eb4-d,Home & Kitchen,349.16,15,415
+668aa034-6,Sports,319.98,10,200
+aa3dbf64-5,Sports,276.08,25,427
+50889b27-f,Clothing,324.41,50,428
+b683ba73-5,Beauty,421.16,30,458
+d45b8dc8-d,Beauty,106.66,25,179
+4f7e965b-1,Beauty,174.43,30,320
+787ca917-e,Home & Kitchen,250.0,25,323
+e80edd02-2,Beauty,480.82,5,287
+62b4ee7a-6,Home & Kitchen,187.84,20,292
+6b55c0d4-0,Books,315.54,10,186
+da046af8-6,Sports,186.17,50,340
+d166d0c2-a,Clothing,204.03,20,471
+8da332da-a,Sports,229.52,20,249
+79dc5c00-8,Books,130.16,50,338
+0bec836e-1,Clothing,470.92,50,233
+0b8e93ab-1,Home & Kitchen,367.49,20,248
+0aa405c8-b,Sports,41.11,25,437
+a839d7a6-0,Toys,276.12,20,417
+4b7aeeb4-d,Toys,268.14,0,283
+9248f11b-8,Home & Kitchen,108.07,50,283
+4284ba03-7,Home & Kitchen,124.29,50,320
+4096a452-0,Clothing,53.55,30,210
+03504d8a-d,Home & Kitchen,149.82,15,194
+a38fa435-4,Electronics,122.81,20,386
+748793a0-2,Clothing,147.44,25,302
+117417c1-9,Beauty,71.51,5,166
+731bb929-8,Clothing,162.81,30,171
+5beb8bd2-0,Home & Kitchen,182.35,0,261
+dc3598ed-4,Clothing,334.65,50,369
+c850d4a5-9,Clothing,15.45,0,269
+3ee7c3f5-1,Beauty,134.04,50,426
+6e5a726a-a,Sports,432.41,20,341
+b9394d22-4,Home & Kitchen,100.72,30,436
+0903f466-f,Toys,70.94,25,397
+ccf9f689-6,Home & Kitchen,62.19,50,459
+31bc3b59-3,Books,330.53,10,192
+708ecda7-d,Sports,463.2,10,405
+17c0c091-5,Sports,11.94,20,260
+1dd30373-6,Sports,193.48,5,228
+f9379563-e,Home & Kitchen,19.09,5,266
+2dd1d448-8,Electronics,194.92,25,434
+f3a1636e-1,Electronics,336.27,0,205
+97e677cb-6,Home & Kitchen,469.29,5,275
+eb1479f3-f,Sports,15.8,30,334
+0b599874-2,Books,30.81,25,168
+0fc0a3c3-d,Beauty,137.04,0,177
+eb6be1ca-1,Sports,316.1,5,481
+66c83748-3,Sports,306.26,50,172
+7de11438-b,Sports,134.53,15,259
+0c98dbfb-1,Home & Kitchen,426.71,50,316
+67dad671-2,Books,56.51,5,336
+8ef678aa-9,Beauty,278.86,5,292
+a49fddcb-4,Toys,471.77,15,467
+1ef0156f-7,Beauty,292.74,0,199
+2f9f2265-e,Clothing,368.17,50,390
+73bd35e0-1,Clothing,313.85,0,174
+34e02965-3,Toys,107.27,10,331
+2c952a50-4,Clothing,394.07,5,267
+99f2f294-d,Beauty,414.68,5,357
+de463b7d-8,Beauty,124.21,0,336
+ad7ec721-9,Books,205.1,50,163
+6b20bcd6-4,Sports,249.81,10,452
+1155fc55-5,Home & Kitchen,54.3,0,226
+1ceb87ae-e,Electronics,255.6,10,257
+26be4ef8-4,Books,491.18,5,177
+427e49a5-7,Toys,463.69,50,194
+73cded42-c,Beauty,96.86,10,311
+5adb772f-b,Beauty,180.91,10,388
+a371102e-f,Clothing,170.46,10,405
+e88dc97f-5,Clothing,492.41,0,484
+1e61b452-a,Clothing,191.05,50,398
+bbc7195e-8,Books,224.84,15,267
+c7dba5e8-1,Toys,130.19,5,275
+5ce04406-8,Toys,132.67,20,476
+f825c098-f,Toys,296.84,25,277
+d2c5913e-a,Home & Kitchen,254.11,25,455
+de19ae1f-a,Beauty,273.03,10,457
+46af5cdd-0,Electronics,433.48,50,262
+a135c362-c,Clothing,119.22,20,390
+7bc64761-0,Sports,83.14,0,474
+7da00e52-a,Home & Kitchen,469.67,50,450
+090421d9-5,Books,89.73,0,441
+55b6d10e-3,Toys,154.93,30,286
+cafa45f9-e,Books,422.91,25,261
+bb656f87-5,Sports,191.22,15,339
+ebfe5119-f,Toys,282.3,50,291
+3825f76f-9,Beauty,473.47,5,381
+bc84ed28-8,Sports,401.02,50,169
+6b3feb11-d,Books,212.45,20,322
+f10f6e27-5,Books,107.85,0,306
+3df02c31-e,Sports,299.44,25,243
+09bfc749-2,Clothing,180.07,25,399
+e4637676-9,Beauty,26.18,20,287
+4885fdf1-e,Books,41.5,5,320
+50996230-2,Books,487.32,10,296
+708ad704-6,Home & Kitchen,171.89,10,198
+d29842bf-5,Electronics,310.88,30,246
+3a3431c0-1,Clothing,462.61,0,370
+fac92d7f-e,Clothing,278.52,50,391
+1fb11b6f-9,Books,162.92,20,460
+a2f9f3e2-7,Home & Kitchen,172.7,30,262
+0e8cfebd-e,Books,46.11,0,378
+5d9ef960-1,Home & Kitchen,471.76,10,181
+5f71ad74-e,Home & Kitchen,263.49,20,181
+ad3c9d8d-b,Home & Kitchen,30.52,20,189
+f580de18-9,Toys,143.49,50,165
+02b3f5ae-b,Beauty,21.3,5,390
+2d8544d7-8,Electronics,271.54,15,446
+b9507324-c,Books,292.99,20,480
+bc3a7a7a-1,Books,119.18,10,162
+46067a09-f,Books,393.18,50,330
+1d980ea4-a,Electronics,110.59,25,362
+09a09097-c,Electronics,488.92,30,165
+49908afb-9,Books,428.84,0,286
+aa684113-0,Toys,231.78,15,437
+9675e013-e,Books,118.57,30,209
+4ee8e600-b,Clothing,393.1,15,375
+b8eabdb6-0,Sports,384.99,15,351
+1202fac1-8,Clothing,171.84,30,245
+07c8c702-1,Home & Kitchen,264.13,5,285
+ee5461f9-5,Beauty,109.89,50,472
+6a51da27-0,Beauty,447.8,20,182
+c06702ca-7,Home & Kitchen,204.93,50,371
+1c418a9a-f,Books,393.43,50,353
+5c275a49-6,Clothing,425.7,20,413
+36c32f94-e,Electronics,128.88,10,271
+e9f16b04-b,Clothing,407.36,0,294
+1913b9f5-f,Toys,415.44,5,330
+c5776e2b-0,Electronics,333.31,25,335
+bb2afb7b-9,Sports,17.86,20,447
+0db55b23-5,Home & Kitchen,14.23,10,194
+6dd643ff-f,Sports,336.97,0,388
+89c2cf5c-5,Beauty,214.24,0,435
+3c2c7bd1-a,Toys,330.88,15,280
+8d6a12a7-0,Beauty,373.59,50,431
+a463e1e2-5,Electronics,117.15,5,192
+e8bdd051-c,Toys,267.5,25,189
+c33a593f-6,Books,444.15,5,475
+9df55aea-0,Sports,135.6,0,249
+230d9649-c,Home & Kitchen,70.14,30,330
+56e22c85-1,Clothing,155.81,50,259
+fb547ae4-7,Books,313.29,15,379
+81aa1299-5,Toys,478.62,10,477
+d0e09be9-c,Home & Kitchen,175.5,25,177
+1626312c-c,Toys,90.76,25,479
+aed2d726-1,Electronics,323.21,25,457
+f9a4c648-b,Sports,145.89,15,397
+55781174-b,Toys,56.77,10,394
+ae06fbe8-0,Clothing,168.31,10,220
+594ef637-c,Clothing,421.59,0,285
+ce5bfe4c-0,Home & Kitchen,144.19,20,343
+8e83d866-a,Beauty,479.32,25,352
+02cefb6b-a,Clothing,330.71,25,175
+6dd487cc-4,Beauty,217.35,0,240
+65c19c36-c,Books,193.15,50,473
+9b5e7055-7,Toys,352.6,0,372
+3e65294c-d,Sports,376.39,10,448
+d45c3dfa-8,Toys,498.58,25,359
+26348ec1-0,Electronics,469.47,30,327
+61556376-b,Home & Kitchen,55.95,10,261
+4e670a5b-8,Sports,334.08,15,259
+0ac98a57-a,Books,144.67,0,455
+003d1f09-c,Toys,181.21,5,243
+0595e396-b,Sports,273.16,25,438
+ea6be03c-9,Sports,361.24,50,295
+757cdf83-b,Sports,353.7,10,220
+5a4aba10-8,Toys,373.65,0,412
+c54c70f9-c,Clothing,361.48,30,228
+a567dafc-5,Home & Kitchen,296.22,0,479
+fdcb2e14-f,Toys,48.52,25,290
+8e910cce-9,Home & Kitchen,262.23,20,167
+3003f89f-c,Clothing,243.84,50,324
+7036a176-4,Clothing,41.68,0,281
+00b3c8d1-b,Toys,480.84,10,437
+bf26daef-1,Home & Kitchen,488.06,30,233
+2cc13aac-d,Beauty,91.27,0,478
+7c7054b6-b,Electronics,18.15,0,313
+6e609028-f,Toys,33.14,50,258
+7e940f3c-8,Home & Kitchen,392.77,10,454
+5ad070b1-8,Electronics,279.96,15,447
+24cde985-c,Clothing,408.64,25,408
+67d7c91c-b,Home & Kitchen,491.7,0,254
+20c99ee6-7,Clothing,260.12,0,293
+f0b7f510-3,Books,455.77,25,215
+e18a5897-c,Electronics,55.31,30,166
+ab613eea-c,Sports,261.0,10,409
+7f0a5173-a,Toys,255.6,25,373
+c8df4458-3,Clothing,173.69,20,442
+2cf0d432-8,Electronics,394.9,30,463
+bfd85ecd-1,Beauty,29.46,30,400
+e5714c84-9,Electronics,273.52,25,295
+6a06a69a-b,Books,56.11,20,386
+ac7bf91d-0,Electronics,42.89,30,413
+12ca96d3-8,Electronics,92.47,15,341
+6f3a6478-1,Books,64.22,15,476
+8ef22240-7,Books,119.63,15,438
+ce0d6be8-5,Clothing,357.91,10,410
+1005ef1b-8,Beauty,81.78,10,199
+2bff9cc4-4,Home & Kitchen,18.63,50,230
+9f6995da-c,Electronics,249.98,5,427
+c0062d3e-a,Sports,131.33,50,192
+819cf080-c,Toys,430.99,5,480
+3907e89b-b,Electronics,382.07,0,407
+8ab8122b-7,Clothing,177.67,10,303
+b5f03124-1,Clothing,385.62,25,392
+81792d61-d,Clothing,94.33,10,403
+5b4b2513-5,Beauty,403.54,15,430
+62fa448b-9,Home & Kitchen,301.37,0,267
+a076e727-e,Electronics,102.67,50,425
+85ce9a52-3,Home & Kitchen,457.4,50,295
+13c71160-0,Beauty,203.25,30,457
+aac59317-7,Toys,221.76,0,436
+6e2c6f03-9,Home & Kitchen,105.25,30,371
+0907acd4-7,Home & Kitchen,125.71,5,266
+7439579c-8,Clothing,493.99,50,353
+e4c206e9-f,Sports,158.67,0,460
+1e6bef43-b,Books,139.01,15,207
+8f262ef1-f,Electronics,186.37,20,402
+bb0b56a8-0,Electronics,398.89,50,465
+c65f5cbc-4,Clothing,15.38,50,405
+3ce3e465-d,Books,353.97,0,465
+0dba9639-a,Home & Kitchen,190.88,10,472
+8628668e-4,Beauty,470.18,50,310
+ee1c7116-f,Books,184.21,5,244
+339b8269-a,Sports,31.22,50,448
+bb49caa3-2,Books,376.89,30,415
+bf113b2f-5,Home & Kitchen,213.59,0,471
+6ad232d8-0,Electronics,147.85,25,285
+8adce88d-f,Beauty,281.71,0,346
+825343f1-0,Sports,57.65,30,333
+860e5dd3-0,Books,458.91,5,454
+99ec5f3d-c,Electronics,173.36,15,433
+9eab942b-0,Sports,250.91,30,270
+ec854f0f-d,Clothing,410.07,20,456
+ebe8b43b-c,Books,318.02,50,481
+828e8cf5-8,Electronics,291.23,5,166
+f0fdca6b-4,Sports,254.27,5,254
+f852678c-a,Home & Kitchen,235.02,15,254
+d3a06e65-a,Books,266.65,15,427
+d587cd2f-2,Books,228.28,5,235
+d8519efa-7,Electronics,286.86,25,306
+5aca3424-d,Electronics,235.82,50,173
+ffb9c83c-f,Books,418.07,15,218
+fc9b7220-8,Toys,137.79,0,342
+ff1218f2-a,Toys,397.37,10,452
+7c966874-4,Sports,306.61,50,202
+0c723758-5,Sports,476.73,20,381
+4dad1419-5,Toys,233.8,10,483
+c8128ce6-f,Beauty,372.91,25,308
+3db407ae-2,Electronics,203.99,20,430
+7105de94-6,Toys,135.87,25,352
+8be86f7a-9,Beauty,210.69,10,192
+50c30ff3-4,Home & Kitchen,55.36,20,207
+fd65745e-3,Books,392.88,25,182
+57b42657-b,Clothing,297.6,50,482
+9d5fbb5c-8,Toys,149.91,25,191
+c4f93075-e,Sports,484.14,25,160
+d9ac2b55-c,Home & Kitchen,453.99,5,452
+ad17107c-3,Sports,324.68,25,452
+43f505c8-6,Electronics,37.39,50,303
+c2b44056-b,Home & Kitchen,410.07,50,347
+13741e7f-f,Clothing,323.65,30,293
+bbdc6651-3,Electronics,165.56,30,280
+4ce5173c-6,Electronics,221.03,0,246
+25583753-9,Home & Kitchen,51.27,30,242
+272f1feb-4,Sports,51.31,50,262
+81bf8c6c-c,Home & Kitchen,235.35,15,200
+3d444ba2-6,Books,462.66,20,318
+58741ec0-3,Clothing,67.02,5,462
+6a975f71-2,Clothing,457.96,5,208
+3f87a674-e,Clothing,215.06,0,203
+6e039e31-8,Electronics,49.79,15,465
+d57ebdfe-f,Toys,71.25,0,412
+b5cae03d-2,Sports,47.04,5,196
+56b1fa03-5,Electronics,250.1,25,289
+786e085b-a,Home & Kitchen,333.61,10,401
+5be334f3-b,Home & Kitchen,41.85,20,215
+143b0a24-6,Home & Kitchen,94.11,25,249
+2902da20-1,Books,486.05,50,228
+772798f1-d,Beauty,293.03,5,377
+965ef4ce-4,Toys,274.85,5,328
+ce301235-0,Books,187.3,50,283
+94586749-1,Electronics,297.32,0,181
+3f4e0fd0-3,Books,55.9,20,180
+9b3c5c8f-a,Books,404.85,25,363
+51714cbb-3,Sports,39.82,5,385
+970d3f0c-a,Books,259.65,0,312
+ab34f455-d,Clothing,29.8,10,421
+df56e5a2-3,Electronics,352.73,25,457
+6d0321c6-b,Clothing,265.73,10,242
+0ad41cff-3,Toys,25.94,5,315
+46cc5efc-9,Home & Kitchen,315.53,0,205
+e9b42654-9,Beauty,96.8,50,328
+3a45b287-4,Home & Kitchen,229.13,50,348
+6d122b75-8,Sports,119.97,50,292
+73db29d6-9,Clothing,250.45,10,192
+b36687ef-b,Toys,168.44,0,186
+a33cd9a4-a,Toys,103.8,0,275
+2b4369eb-8,Toys,52.94,15,201
+2215cddb-3,Books,368.07,5,459
+85693781-a,Beauty,135.49,25,260
+40c78e8a-c,Clothing,404.46,25,225
+c5bb69e8-1,Electronics,477.36,25,161
+7e201cc8-0,Sports,187.4,0,343
+1ddb4839-f,Books,415.48,15,274
+1b774792-1,Home & Kitchen,138.62,10,248
+3fffc757-5,Sports,10.33,0,383
+0c531a40-9,Electronics,423.28,0,430
+13733608-4,Beauty,372.63,0,277
+efc23d58-a,Clothing,441.72,0,398
+c98f8347-4,Books,399.38,50,188
+257bca99-8,Clothing,428.53,15,393
+e7e972e1-b,Clothing,308.6,10,402
+aea633be-6,Toys,452.0,15,342
+638f689c-2,Home & Kitchen,233.42,0,293
+452b4ded-0,Clothing,24.55,10,449
+7f84540b-f,Electronics,196.1,15,301
+5a1355a8-c,Toys,227.48,0,387
+4635b113-8,Electronics,318.83,20,383
+54dc6586-b,Toys,186.5,50,421
+9c03e74e-5,Books,141.28,20,374
+d903018d-c,Clothing,121.13,0,343
+a955efd5-3,Sports,87.7,0,297
+5cdea072-d,Books,247.3,25,283
+7226de32-a,Home & Kitchen,10.82,25,381
+1be63723-a,Electronics,200.86,10,468
+ce70b83a-b,Clothing,32.66,15,282
+9c22d058-e,Books,498.59,10,385
+9c80f68b-7,Clothing,276.84,30,389
+eaf0bd4e-6,Beauty,62.2,5,257
+9823aeae-9,Electronics,75.65,15,365
+34b2c858-e,Home & Kitchen,442.91,0,191
+08be4b5f-8,Electronics,205.35,0,207
+f07dfff0-3,Electronics,370.3,30,252
+55767258-f,Toys,251.66,15,213
+f83c9a9f-8,Home & Kitchen,467.8,0,375
+2e319782-b,Sports,428.97,10,182
+f5406e9f-0,Sports,479.89,15,309
+9d2666f1-9,Electronics,451.74,20,244
+bda21a04-9,Sports,189.54,25,270
+4a7d5999-0,Beauty,61.47,20,187
+e8d63fa7-6,Home & Kitchen,406.13,50,465
+d6d06f86-5,Beauty,233.79,20,212
+7baf5c66-7,Books,117.37,0,418
+7521556b-9,Clothing,146.37,25,454
+e720ba94-6,Clothing,262.71,10,345
+887725db-e,Electronics,374.98,30,457
+c364eefe-b,Toys,206.92,25,259
+e63d4065-9,Beauty,126.06,0,201
+9d783d45-f,Toys,216.8,30,269
+13f8e517-6,Books,48.15,10,377
+7af7b6b9-8,Beauty,339.34,0,398
+d1980e92-c,Sports,130.51,30,311
+95e0e113-3,Books,58.82,5,423
+baa2239a-2,Toys,440.49,5,316
+c6712c79-0,Clothing,216.4,0,358
+074ac86a-e,Clothing,44.95,5,259
+1840b0df-0,Electronics,284.9,0,276
+970c7b44-e,Beauty,407.75,25,396
+c24d3b93-9,Home & Kitchen,28.94,10,283
+fc58d2fa-b,Beauty,279.34,5,237
+17e7359b-d,Sports,403.49,10,484
+f70dd60a-e,Electronics,266.16,5,260
+203b195c-f,Toys,59.11,25,339
+503beecd-3,Clothing,492.24,30,238
+c19b4c84-1,Toys,181.73,15,330
+66dbeb49-b,Electronics,362.98,0,288
+e4ea1690-0,Home & Kitchen,164.7,10,416
+2e17abb5-e,Toys,469.41,5,193
+59dc4ca6-c,Home & Kitchen,357.41,25,418
+a4744089-d,Home & Kitchen,446.21,30,335
+6f13d2ba-3,Clothing,170.8,20,250
+26a6952d-5,Sports,122.58,20,384
+98fa1373-2,Home & Kitchen,493.51,10,218
+50abae2d-e,Home & Kitchen,278.5,50,241
+ac86b890-3,Home & Kitchen,176.59,50,280
+76573101-d,Beauty,72.08,15,289
+6aedd577-8,Beauty,497.92,25,479
+45719f00-6,Beauty,333.66,5,254
+5e4a3b63-e,Beauty,416.11,0,378
+81356275-a,Clothing,494.49,30,457
+f1f419a7-2,Clothing,22.12,50,411
+1b8adf6e-1,Toys,178.5,25,166
+60d1aaff-6,Books,219.2,30,368
+c2722564-1,Electronics,310.01,10,279
+70038a77-7,Toys,175.18,10,315
+411d96de-8,Beauty,464.54,10,398
+f79a86d6-7,Sports,345.03,25,341
+5a21c9b3-0,Electronics,269.89,5,270
+d4e58542-6,Electronics,443.26,10,470
+ae992cfe-8,Electronics,421.99,0,226
+a8dc7ad5-e,Books,270.41,5,283
+a654ef13-7,Clothing,245.22,50,409
+51f64685-1,Sports,258.5,20,369
+c336381e-2,Books,409.67,20,203
+d3252599-5,Books,135.25,25,220
+1119a5d9-e,Toys,323.14,25,444
+94754bb1-a,Home & Kitchen,56.46,30,343
+fefd3d88-4,Clothing,338.11,0,213
+bb287ce6-e,Clothing,496.13,15,323
+3e6d5f1a-6,Books,476.97,10,351
+2f050590-8,Clothing,195.46,20,314
+a07b6eb7-8,Toys,200.87,0,327
+f2efe2c9-0,Sports,12.7,50,447
+0f9b23d4-b,Books,46.81,20,426
+3c4e266b-1,Home & Kitchen,447.61,10,325
+ba1aeddc-6,Books,236.71,25,440
+3dd3a0c6-9,Clothing,30.85,15,166
+309e09ed-b,Home & Kitchen,254.08,15,207
+88a25e14-f,Clothing,234.28,25,375
+fb27cf00-b,Toys,286.83,20,286
+2080ce3e-5,Beauty,266.23,30,380
+74b9a1c6-9,Books,97.64,10,176
+5421b4c8-f,Clothing,113.41,0,332
+ce358136-a,Sports,495.55,5,409
+15983b6d-0,Home & Kitchen,222.65,15,379
+7d8dd0f0-2,Sports,393.04,5,249
+522fb9fb-8,Beauty,196.56,30,312
+6b089f15-e,Sports,290.25,0,363
+7fb86df7-8,Sports,379.93,30,186
+61607168-d,Electronics,171.18,25,178
+1a020527-c,Home & Kitchen,149.3,5,196
+e35274e1-8,Clothing,222.07,25,340
+5fe8d63f-5,Beauty,52.29,0,219
+c1ea1c05-0,Books,58.85,50,200
+48aa9a64-c,Home & Kitchen,273.13,20,248
+015db72c-0,Books,127.6,30,355
+e3508600-6,Clothing,82.43,20,186
+677e9d50-8,Books,269.76,20,342
+04ccaf0f-6,Sports,337.7,10,396
+e66c1407-e,Home & Kitchen,353.08,0,481
+ea8fb66a-8,Sports,436.99,20,377
+1cf43582-9,Books,384.23,15,160
+6ed09154-a,Clothing,243.88,20,480
+17e8e153-e,Home & Kitchen,261.8,50,352
+e00ace59-9,Books,471.02,20,444
+31421ef6-3,Electronics,437.56,25,245
+c48b3198-1,Toys,433.53,10,211
+397e3df0-7,Home & Kitchen,414.73,20,240
+4730cccc-1,Home & Kitchen,121.2,20,452
+6ac06d61-0,Home & Kitchen,479.54,0,477
+941bb2a0-3,Home & Kitchen,296.45,5,202
+3baea861-d,Beauty,286.43,15,446
+fa0af2c6-1,Home & Kitchen,143.24,5,232
+586cb8e2-1,Toys,313.68,0,460
+df20c732-7,Home & Kitchen,224.68,30,458
+9c83496b-c,Toys,232.86,20,269
+49cf6bb4-d,Toys,63.37,20,372
+233f387c-1,Clothing,103.44,30,221
+48db1429-2,Clothing,488.6,25,382
+d858c042-1,Home & Kitchen,371.23,5,364
+2883c4ac-f,Toys,386.7,20,235
+dadc64fc-7,Electronics,370.53,0,296
+fb9b8a28-0,Electronics,135.13,5,472
+f14c6602-a,Electronics,448.19,5,285
+38ca7a74-1,Home & Kitchen,140.0,5,418
+b9814c5b-8,Home & Kitchen,430.03,30,248
+5c564283-5,Clothing,478.79,5,246
+cc4ba47c-4,Toys,261.25,30,198
+d79a97af-7,Books,444.77,25,178
+63966cd3-e,Clothing,102.54,30,269
+7f6bc8e2-e,Books,52.51,25,267
+9937c112-8,Clothing,425.83,10,407
+81ecd3ab-c,Electronics,455.26,15,468
+a476f50b-b,Electronics,199.44,15,312
+965e5e98-c,Beauty,96.61,5,235
+cb57e30b-c,Home & Kitchen,265.18,5,274
+a18c2dc8-6,Clothing,241.58,30,385
+d628dc52-4,Clothing,20.79,50,449
+fc41815f-e,Clothing,52.46,0,202
+b9117808-0,Toys,264.94,15,333
+1791f55a-d,Sports,190.85,15,485
+7160c687-8,Toys,307.03,30,279
+274655e4-e,Beauty,271.29,0,289
+a0af3ec3-9,Clothing,394.16,0,393
+a58f35a8-e,Books,152.41,50,173
+3ffe4523-6,Clothing,197.51,20,173
+c20acdec-f,Sports,412.15,20,448
+49bf1cb4-b,Electronics,389.86,10,293
+a1fb2513-7,Clothing,235.54,30,445
+41c59c9b-6,Beauty,227.56,5,210
+dd69f824-e,Electronics,484.75,10,210
+27edc33a-b,Beauty,82.9,20,171
+b4df519d-3,Sports,17.03,25,412
+f5d84932-c,Sports,290.57,25,374
+2dca1666-7,Clothing,147.97,5,233
+7af4e869-5,Home & Kitchen,350.82,30,165
+f355dbeb-0,Toys,315.16,10,195
+cfaae2b3-e,Clothing,332.54,30,469
+f9d9bdde-6,Beauty,249.14,15,357
+f1898a02-a,Beauty,438.9,30,484
+943bb270-4,Beauty,260.01,15,185
+68186695-8,Beauty,427.72,30,301
+2ef7f9b2-0,Electronics,243.29,25,195
+3b735a05-d,Electronics,360.82,5,317
+13dfffe6-c,Home & Kitchen,426.84,15,475
+edae5249-0,Beauty,25.36,25,386
+e9696ff1-7,Clothing,219.93,25,222
+776fa794-3,Electronics,104.5,20,295
+a552d4bc-8,Home & Kitchen,28.34,25,223
+ba62c94d-d,Beauty,301.06,5,231
+383c3aab-0,Books,74.9,5,212
+0fab0af4-7,Books,350.21,20,285
+e5f942f3-8,Toys,43.23,30,301
+07df35b4-9,Toys,386.36,20,454
+fe974b83-c,Clothing,172.92,50,362
+35ed32b8-0,Books,25.98,15,225
+f7e31ff0-3,Clothing,435.14,15,185
+f934d520-d,Books,134.42,25,330
+01d22c80-5,Sports,296.55,5,296
+53c83493-b,Home & Kitchen,105.52,0,340
+b18c0e0f-7,Toys,338.82,50,346
+0c1b665c-f,Electronics,165.23,15,451
+e9d5ad81-4,Electronics,384.9,20,266
+ee2f115e-2,Home & Kitchen,423.56,5,326
+5a620590-5,Beauty,139.84,0,429
+ecde892a-6,Books,492.78,5,247
+f72e811d-c,Home & Kitchen,220.92,5,398
+28f61b71-1,Home & Kitchen,365.04,30,454
+5cff4a42-6,Sports,385.34,20,412
+2531d8cb-d,Books,458.94,0,184
+3a6f68d0-c,Books,287.43,50,351
+dec78273-c,Home & Kitchen,383.01,0,474
+cc2a189c-2,Beauty,62.51,30,206
+1f5ed0c6-f,Beauty,210.68,30,389
+b2469e12-a,Electronics,59.48,50,294
+130534bb-e,Sports,415.39,15,322
+2e43f4f8-8,Toys,323.5,5,341
+7b06e4f3-1,Home & Kitchen,268.81,0,254
+244356f2-8,Electronics,247.41,5,195
+16470a66-0,Sports,142.35,5,378
+540132b9-4,Toys,228.46,5,407
+595ac82f-6,Electronics,390.22,10,407
+63508b8e-4,Electronics,98.89,15,373
+25257708-b,Sports,475.72,10,331
+1482500a-e,Clothing,312.28,15,425
+39f3ffa9-f,Clothing,365.44,20,373
+bd577fc8-d,Books,209.3,5,468
+acd7f9c1-7,Toys,484.65,50,210
+3abe5b39-e,Clothing,217.91,10,401
+a4248d87-7,Home & Kitchen,427.63,25,173
+ba13da59-b,Books,390.58,5,403
+73bd1e59-9,Clothing,90.01,30,289
+63f3bf90-9,Home & Kitchen,388.41,25,282
+72646c94-a,Books,496.31,25,286
+819f0936-f,Home & Kitchen,170.91,10,428
+5cc16227-8,Books,497.95,10,255
+93d9b420-b,Beauty,208.23,50,404
+84262d16-1,Electronics,37.82,5,294
+7f56151a-9,Beauty,365.18,15,330
+1a6e3dfa-a,Clothing,323.74,10,407
+b6968744-f,Books,61.68,10,430
+be9d0033-a,Beauty,177.76,10,286
+57a18d6a-0,Electronics,132.78,0,465
+562a51c3-c,Electronics,328.44,0,257
+36e91c9a-3,Electronics,207.86,10,393
+c30ec252-d,Beauty,494.21,10,198
+49f5da4e-a,Beauty,356.61,20,351
+693073b2-c,Beauty,308.57,10,429
+b79c15f2-b,Clothing,457.38,20,164
+dce0fa17-a,Beauty,376.51,15,444
+c883cfbc-e,Electronics,174.27,0,255
+8f95a763-9,Sports,89.61,20,384
+c70d41ca-b,Home & Kitchen,457.48,30,247
+de176f57-6,Sports,468.83,30,484
+717ed3a6-d,Electronics,52.31,30,430
+07874128-1,Sports,22.6,0,168
+2d8a8589-1,Beauty,117.78,25,397
+0e7a2269-1,Books,107.72,15,325
+d593dcbf-e,Sports,362.7,50,209
+f303f0e3-1,Home & Kitchen,210.86,10,355
+1dfa2788-6,Books,341.41,10,289
+03a1c4ff-3,Beauty,205.75,50,467
+bcf95241-9,Sports,292.11,30,454
+aa363a36-7,Toys,323.34,30,391
+80478563-7,Books,168.56,0,289
+e286045f-0,Electronics,477.51,30,453
+4fd01d30-d,Beauty,455.09,20,356
+896761ed-f,Books,80.01,15,484
+bb0bd498-7,Electronics,387.62,50,230
+f1bc8bc3-c,Beauty,243.65,0,186
+cb47f33f-8,Clothing,437.91,5,390
+0d67cfca-0,Sports,406.83,15,280
+864a88f7-5,Home & Kitchen,259.15,0,355
+d1eb1bae-e,Toys,232.96,50,184
+7d98618f-2,Toys,42.38,15,299
+576c73b7-4,Clothing,328.41,20,212
+a2e789d0-4,Home & Kitchen,246.18,30,237
+ea6832c8-6,Beauty,455.96,5,217
+21560ace-1,Sports,331.06,20,397
+8a46b2a2-c,Toys,399.06,5,416
+e3b04091-f,Toys,364.43,50,172
+66150296-4,Toys,275.78,30,256
+65f9519c-3,Books,386.62,15,178
+741436e6-7,Sports,468.72,30,261
+869241b6-0,Home & Kitchen,78.92,25,465
+3b9bc0ec-8,Home & Kitchen,430.85,20,386
+c5d5857f-a,Toys,331.73,15,252
+c1fcc06b-8,Sports,183.74,20,470
+87ff490c-e,Clothing,396.57,20,247
+5d86cb7e-c,Toys,377.73,0,176
+e9c2c89a-2,Books,211.97,15,244
+dea0d8ef-d,Clothing,210.56,20,201
+1e824663-0,Beauty,76.11,50,404
+f6f2dc31-9,Books,152.92,20,451
+7aafb2cb-3,Home & Kitchen,373.51,5,415
+5f579136-a,Clothing,379.29,5,419
+182d97bc-c,Sports,185.28,30,460
+456a22e6-5,Clothing,116.77,5,264
+3cba2745-2,Clothing,392.84,25,322
+793513ba-9,Beauty,310.58,20,415
+1a0925e6-3,Clothing,166.25,0,454
+868d34fe-c,Clothing,158.02,5,483
+2efe483e-1,Sports,396.49,0,388
+42f0e639-2,Electronics,182.87,0,339
+408cde63-b,Clothing,449.47,30,402
+f88ccf3d-d,Home & Kitchen,336.95,30,180
+965b9199-b,Sports,377.0,0,431
+92e681b3-c,Clothing,310.93,15,407
+db892307-f,Books,31.08,50,201
+58e7f616-5,Sports,399.88,5,240
+0b1da022-c,Beauty,60.84,10,389
+3254a62d-e,Toys,242.35,50,207
+7310a662-e,Beauty,42.85,0,480
+bc200efb-e,Books,281.84,25,197
+b4cfc871-d,Electronics,340.11,25,331
+5966ef80-9,Books,447.4,20,223
+5fc89cd5-4,Home & Kitchen,396.78,50,227
+3d2f62bd-b,Home & Kitchen,226.61,0,306
+476bde88-a,Electronics,87.03,5,287
+916e62e8-4,Electronics,11.16,5,257
+ae245da1-5,Sports,52.31,50,314
+2117c581-f,Sports,106.47,30,472
+71ec0c67-4,Home & Kitchen,67.95,50,312
+c4f0d6b6-8,Sports,83.78,15,398
+9faa3baf-9,Electronics,14.58,10,195
+26dc7c92-a,Sports,176.41,20,232
+ae6b2acd-b,Clothing,299.87,5,458
+51ae97b7-4,Electronics,244.89,0,428
+d08d3d0c-f,Clothing,366.52,20,329
+cd3d6d2e-4,Electronics,195.26,5,165
+dd0f4845-3,Beauty,320.98,5,184
+9896c7f5-d,Toys,380.07,10,376
+c4ff4b90-7,Electronics,438.61,30,436
+8e4e44c7-4,Electronics,210.35,30,465
+84be9d60-f,Clothing,184.6,20,267
+8a364fb0-9,Toys,174.34,25,420
+b1350489-6,Home & Kitchen,255.72,5,425
+3b93ac9a-a,Beauty,25.16,50,376
+b401dc71-f,Clothing,11.59,30,328
+2838e610-5,Beauty,446.06,15,365
+4d52f6d5-e,Electronics,413.4,30,314
+44b6fadd-b,Sports,468.35,15,433
+0d489bb6-4,Toys,379.45,0,191
+e8dd4357-9,Sports,59.58,50,242
+dfbc899b-5,Books,16.47,5,459
+1967d8b1-1,Beauty,166.1,5,416
+b6fdbf1b-e,Toys,108.79,10,472
+a8f5b055-f,Beauty,92.56,10,357
+9107f836-5,Toys,94.31,15,421
+2cb12fa9-c,Home & Kitchen,32.71,50,416
+8a9bc667-9,Books,324.65,25,398
+d8db72ab-c,Beauty,413.11,25,207
+fd6e84a7-8,Beauty,449.76,15,301
+03f0b59e-9,Toys,340.1,10,446
+22b092c6-3,Toys,437.3,0,255
+5d23414d-8,Clothing,21.26,15,167
+f2a33f8e-a,Home & Kitchen,123.34,30,227
+cde041c3-2,Electronics,181.26,50,237
+0708c5d4-9,Home & Kitchen,16.56,25,390
+a1384978-7,Beauty,381.94,15,464
+ef8797ac-e,Sports,193.51,20,410
+631f0593-2,Books,247.08,20,422
+d34a223b-d,Home & Kitchen,64.68,15,443
+a302d39c-0,Home & Kitchen,202.49,25,267
+d9bd76af-a,Books,323.03,10,163
+d1e1c77b-2,Beauty,437.1,20,167
+e58d1c94-c,Clothing,474.3,10,292
+5156c3fe-8,Home & Kitchen,47.44,10,426
+c4ade7bf-2,Beauty,126.15,50,265
+7c202cc0-d,Home & Kitchen,496.03,15,242
+944a7fdb-1,Beauty,339.83,25,178
+4f3b47d6-3,Electronics,69.19,15,289
+26f8ec46-a,Books,228.68,5,464
+1ec3ccd5-c,Home & Kitchen,498.59,30,192
+8389d3d3-e,Books,452.41,30,202
+9b35f85f-6,Books,493.43,20,240
+1dc049c6-4,Home & Kitchen,90.06,10,315
+6e95f22a-3,Books,84.47,5,278
+b28687a6-1,Clothing,473.74,15,390
+e7497b51-f,Clothing,328.65,0,445
+de8507e5-f,Clothing,416.42,50,369
+491c3a0b-4,Beauty,359.09,15,283
+b9d88d0b-9,Toys,388.74,15,434
+40b12e81-a,Home & Kitchen,147.84,20,163
+0cae8a46-9,Sports,255.19,0,289
+f3b35580-6,Books,64.99,15,390
+070064b0-9,Home & Kitchen,49.6,20,477
+83c49cc6-0,Home & Kitchen,118.69,0,348
+71620d1d-6,Books,406.69,0,447
+3e051cec-b,Beauty,438.95,20,340
+a2ba75ee-2,Sports,342.35,10,355
+281cdac1-c,Home & Kitchen,292.38,30,297
+ecadc556-c,Sports,183.4,5,435
+291f5620-7,Electronics,80.88,10,211
+e385f060-8,Clothing,76.16,25,406
+f6927a38-3,Books,357.6,20,162
+2fe3a9c8-9,Beauty,169.83,50,415
+7172d13e-a,Clothing,337.11,50,419
+9c368955-b,Clothing,50.79,25,434
+034a06a9-0,Home & Kitchen,426.03,15,211
+b874e454-b,Electronics,128.82,15,205
+c6c96044-f,Toys,42.72,25,442
+02ffd99a-8,Electronics,280.75,0,484
+e3cd92bf-2,Clothing,486.2,30,362
+d70c88d3-b,Electronics,54.39,25,360
+b3b13670-2,Books,147.43,15,400
+65eef64c-a,Electronics,452.02,10,323
+dc38ea60-a,Toys,219.2,30,330
+eb5d566f-d,Beauty,34.79,20,422
+a5917af7-9,Electronics,326.32,15,455
+4b2386b5-4,Sports,83.5,20,483
+3836d72c-2,Toys,46.78,15,176
+4e29f18f-e,Clothing,468.53,25,173
+578ea21f-a,Electronics,11.6,0,400
+bdd98eb8-b,Toys,133.72,25,356
+0577be70-a,Books,275.25,20,296
+4a7a7141-e,Beauty,45.01,10,259
+b923e620-8,Home & Kitchen,171.02,5,384
+b8e04d3f-a,Books,264.77,10,421
+e11763da-d,Clothing,162.98,5,434
+f7f82ed1-6,Electronics,290.44,5,335
+4e87d04b-b,Toys,203.83,10,186
+17552dd5-c,Electronics,53.34,15,397
+3ebc5b49-9,Sports,49.46,0,336
+2ada5e55-e,Beauty,95.18,25,331
+d9968549-7,Home & Kitchen,112.53,30,264
+ab2d6785-a,Sports,264.46,20,407
+26c5d2ac-8,Toys,100.59,20,206
+e01767b6-4,Books,183.51,15,286
+9bea96c0-1,Books,473.92,15,370
+1cbdb12d-1,Beauty,317.02,0,433
+02e20c5f-d,Home & Kitchen,24.5,15,468
+76f01383-b,Home & Kitchen,228.39,20,369
+b8a69db7-f,Sports,258.26,20,213
+9f830a6f-0,Home & Kitchen,116.68,50,345
+dba7748e-e,Sports,221.56,50,239
+5b190265-c,Toys,387.94,5,370
+341ff061-4,Clothing,375.03,25,405
+ce680de9-9,Toys,339.89,10,190
+aacc0242-4,Electronics,260.45,25,269
+cc07fdea-5,Clothing,419.52,25,388
+c355955a-7,Sports,61.67,15,451
+dcf51353-b,Clothing,408.9,30,430
+e3574b61-1,Sports,42.01,5,317
+e716e837-9,Home & Kitchen,149.93,30,425
+ecbfbc26-8,Electronics,351.98,50,472
+867a9827-9,Books,177.4,25,457
+1213d45d-3,Clothing,407.94,0,365
+771902a5-0,Electronics,228.99,5,416
+b940457b-9,Home & Kitchen,133.82,15,172
+75488462-6,Books,383.46,15,184
+27ab5568-b,Toys,326.03,10,298
+42e7f495-0,Home & Kitchen,258.67,25,391
+9c18936b-6,Clothing,450.07,15,226
+d14c5600-a,Toys,480.15,10,374
+487e8ab5-6,Electronics,375.81,30,267
+71cdea9f-6,Home & Kitchen,31.08,15,281
+48cdb5fa-a,Clothing,221.02,15,253
+6c2539a3-1,Electronics,288.22,0,175
+c1f10b74-0,Clothing,349.42,30,209
+d646b6b4-e,Home & Kitchen,420.6,25,176
+70ef0ef5-1,Home & Kitchen,164.51,10,265
+7c549c30-a,Home & Kitchen,286.5,10,392
+a2a1bf06-6,Electronics,249.64,10,196
+27b08b7e-0,Home & Kitchen,268.41,20,276
+5e3a3479-c,Beauty,491.98,5,470
+c84645bd-f,Electronics,112.67,50,162
+20d69811-6,Electronics,439.73,10,460
+5919dbdc-5,Toys,13.73,5,193
+65c809c9-2,Toys,221.29,20,281
+a586b34e-9,Home & Kitchen,226.85,30,450
+77b29710-2,Electronics,146.09,0,190
+186eb4e6-a,Home & Kitchen,361.42,25,213
+22753e41-f,Home & Kitchen,52.0,15,464
+d4d94ba1-7,Sports,196.87,50,377
+b69f2c67-5,Sports,479.26,10,385
+f08c4492-a,Toys,45.08,15,216
+b4cdab2b-0,Toys,343.0,0,292
+a0522f4e-1,Toys,114.7,10,427
+0ab6838c-8,Books,455.69,25,284
+bac20164-7,Home & Kitchen,177.05,30,248
+77c8ac60-9,Home & Kitchen,41.08,30,226
+64a0dfd5-3,Beauty,22.37,5,345
+741c8904-0,Toys,328.06,0,413
+6bb7c64c-e,Home & Kitchen,105.58,30,370
+a7c4d22b-1,Toys,261.76,10,363
+a59a21d3-b,Clothing,198.5,30,474
+dcf6d509-4,Books,402.1,50,201
+61746f09-7,Sports,178.61,0,209
+59f12f5e-a,Home & Kitchen,286.85,5,218
+2450986e-7,Clothing,479.79,50,347
+1dc9eade-e,Clothing,213.66,20,387
+0bc9709c-1,Beauty,51.2,10,432
+ca8f2b35-8,Toys,276.2,5,384
+cd7e048b-a,Home & Kitchen,15.48,20,286
+a845a942-7,Books,278.71,50,466
+e789010d-4,Sports,289.79,10,274
+ebcf582e-0,Beauty,236.31,20,395
+031a9f8f-f,Sports,95.58,25,333
+e9cc48b5-8,Toys,420.68,30,314
+d32f6c6b-b,Books,442.05,10,188
+bacaf816-0,Electronics,402.29,20,405
+49b5a19c-b,Sports,393.54,15,320
+ed543135-8,Electronics,86.0,30,263
+d9211332-8,Electronics,417.54,0,201
+d13be26d-7,Sports,273.42,0,344
+34a21b40-3,Beauty,147.84,20,268
+1b195936-7,Beauty,365.95,10,440
+5b93f5af-8,Beauty,430.43,50,219
+05a6d531-8,Beauty,229.58,50,348
+58fedada-b,Toys,83.42,20,214
+97332847-9,Beauty,456.22,5,426
+4ab25679-d,Electronics,219.64,5,401
+d858e6de-f,Books,312.88,50,423
+9aaa064e-9,Books,437.82,0,279
+9f2ae6fd-8,Toys,171.3,50,166
+610048f7-f,Toys,93.61,30,275
+81e3d510-3,Electronics,24.68,30,298
+6cab92db-2,Electronics,217.03,20,192
+ba7748c5-6,Beauty,425.48,15,346
+9ee0c0d9-7,Electronics,357.95,50,368
+a1823938-6,Home & Kitchen,271.43,50,366
+3adf85d8-5,Toys,24.51,0,456
+01c1488d-2,Clothing,430.38,0,280
+a7ef7bf6-f,Books,399.53,0,475
+17ed3053-e,Sports,491.37,20,461
+7031b4e9-f,Home & Kitchen,182.47,10,354
+9b92d58e-1,Clothing,352.7,10,196
+54ef296a-5,Electronics,252.82,5,389
+c92d975b-0,Electronics,478.35,10,436
+7cdb7bcc-6,Beauty,389.25,15,253
+c6c4e17f-9,Sports,233.66,20,421
+47dcb49b-5,Sports,155.04,20,260
+274934eb-1,Beauty,340.4,10,407
+2a8fff8b-4,Clothing,495.02,0,365
+cfa52f4b-b,Electronics,398.65,30,283
+a3ea187a-6,Books,404.26,0,432
+c0cfe18f-a,Toys,47.54,10,398
+55cd19bf-d,Toys,152.57,0,190
+dcf55c7d-e,Clothing,399.49,50,450
+a195e087-1,Sports,168.52,30,345
+6556f3ed-5,Beauty,474.27,5,319
+ab459f59-9,Toys,11.62,25,234
+44d13aee-8,Sports,433.2,15,407
+f9a08cdc-9,Sports,243.15,25,303
+bdff5ceb-a,Clothing,338.68,10,197
+9a0f9442-0,Clothing,256.93,20,474
+f3090044-0,Toys,153.36,0,480
+32f52e77-3,Toys,280.19,0,326
+6a30e7e6-c,Clothing,335.27,5,385
+af326e04-8,Sports,464.98,10,303
+30402e41-6,Sports,454.39,15,294
+b05c6dba-1,Electronics,145.86,50,288
+d0a3f85b-f,Sports,195.95,25,451
+94fc7678-1,Home & Kitchen,206.99,20,316
+d85e0838-d,Toys,108.04,25,275
+a3749bf9-4,Clothing,231.39,20,247
+f609d1c0-8,Home & Kitchen,356.81,15,452
+cf8a6a42-e,Beauty,316.3,15,208
+8760cdc9-2,Beauty,77.96,15,164
+7c30618d-5,Electronics,215.45,20,481
+8cb10081-9,Books,499.36,20,246
+07d3c705-b,Sports,50.14,25,243
+c69340de-d,Books,425.24,10,468
+0af60377-c,Electronics,410.76,15,242
+2ef11c9e-6,Home & Kitchen,149.52,30,184
+f95ba60a-d,Beauty,147.82,20,425
+ffa4a462-b,Beauty,418.98,15,439
+059c565d-1,Home & Kitchen,55.86,25,327
+2f9790c2-a,Electronics,33.8,50,284
+43eb2577-2,Electronics,29.79,15,475
+d63a71e5-9,Beauty,344.67,15,440
+71ed5cb0-b,Books,109.4,25,252
+6f74258e-5,Home & Kitchen,444.09,50,319
+721e95fc-7,Sports,383.4,50,382
+7058ce9f-c,Clothing,328.07,30,195
+3db1bbd1-b,Sports,450.51,50,201
+e652729a-6,Electronics,350.51,50,185
+7e42ee68-3,Beauty,402.82,0,443
+a96d8b06-5,Electronics,12.81,30,213
+241c5b49-7,Clothing,186.27,0,457
+fe823e51-e,Toys,34.93,30,464
+b75e39cc-4,Books,187.12,0,445
+eb8bcfba-b,Books,301.12,0,282
+fd204ae7-3,Clothing,149.98,0,253
+3596eb92-f,Clothing,475.44,15,459
+fc12336b-4,Books,20.86,5,408
+cf38c5f3-3,Toys,499.0,50,414
+d8179c70-9,Books,46.41,0,321
+fb8bb5e4-d,Beauty,35.47,25,413
+9a9926b5-e,Clothing,164.44,50,312
+99e30a62-2,Home & Kitchen,164.41,20,424
+4b2d81b8-b,Beauty,213.47,20,344
+6f3fb246-f,Beauty,320.31,15,187
+cdd4f661-4,Home & Kitchen,319.86,15,307
+5fa64fe3-8,Sports,41.53,0,191
+6fd4ce69-0,Home & Kitchen,205.9,30,352
+2808821f-d,Home & Kitchen,67.85,15,431
+024bf585-e,Toys,433.77,15,403
+07cfc2fd-6,Clothing,496.95,25,425
+5e246611-e,Clothing,308.25,50,281
+efbe8e1f-1,Books,280.8,15,350
+f721848c-d,Electronics,130.53,15,288
+3da581fa-d,Books,299.12,15,188
+88283ffc-e,Electronics,179.16,30,346
+ab632513-b,Beauty,237.25,25,324
+090c6a64-2,Toys,449.87,5,266
+43944f95-7,Books,138.04,0,326
+a9a972ea-a,Clothing,456.4,30,165
+128bb94a-4,Books,487.06,0,256
+5f29a00a-f,Electronics,409.01,25,471
+327dab47-c,Home & Kitchen,97.09,10,325
+0e96bba7-f,Home & Kitchen,252.08,10,456
+d3cd79a0-d,Toys,248.11,30,373
+87b3f6e5-6,Electronics,254.93,30,458
+26fcfebc-9,Beauty,351.79,30,332
+7dfb697f-1,Toys,160.3,5,250
+1e8f5c9f-0,Clothing,319.97,15,378
+2ef97479-4,Sports,95.15,5,273
+b6bb1f4b-5,Toys,381.45,15,405
+e5379a31-b,Home & Kitchen,203.24,30,227
+e3c44ef7-d,Home & Kitchen,118.84,25,485
+159dc764-b,Beauty,374.41,10,473
+89a71662-4,Electronics,57.79,30,329
+deb3c2ea-7,Electronics,235.61,15,225
+e02c6641-8,Toys,162.91,5,426
+b3a6731b-7,Home & Kitchen,467.03,0,430
+0444b3e7-e,Books,468.31,30,406
+18cbc03a-2,Electronics,90.62,5,470
+85baf850-e,Toys,420.77,10,265
+9336c2d1-1,Home & Kitchen,79.25,25,282
+8f2b3ee0-e,Sports,76.89,15,405
+88a957e9-b,Books,63.54,0,318
+41232e6b-0,Sports,465.65,50,301
+2f4f7e97-3,Home & Kitchen,487.28,10,417
+10f600e2-a,Home & Kitchen,347.3,15,462
+95a41e50-2,Electronics,151.14,10,289
+7b62b19c-f,Clothing,273.0,0,358
+8660e2d3-8,Home & Kitchen,407.72,5,233
+1db41730-b,Toys,70.67,25,323
+5a6c83a3-a,Clothing,483.9,15,435
+aaab8a7f-a,Books,170.58,30,364
+70f6b05e-c,Home & Kitchen,254.57,50,420
+6fe5c6ea-6,Beauty,243.77,30,313
+7db7d6ab-2,Clothing,465.09,15,320
+8132cfed-c,Clothing,86.11,30,434
+dec191a8-2,Electronics,458.09,10,295
+52a11028-5,Toys,147.92,5,231
+5a2b7b42-2,Toys,230.4,5,459
+24c63a38-9,Books,354.94,25,235
+f04a8aad-e,Electronics,31.43,10,169
+9ff96c86-e,Clothing,481.77,5,460
+da8e3eb2-c,Sports,230.27,0,259
+5385184d-7,Electronics,49.18,20,456
+a8aaaab9-c,Electronics,30.69,10,485
+0b9b3d67-e,Sports,330.13,50,264
+2f2961d7-2,Home & Kitchen,99.78,20,239
+922396c9-5,Electronics,299.27,5,279
+bff57146-b,Clothing,215.27,10,217
+83cdbe5b-d,Toys,246.81,5,213
+ccd15bd9-f,Sports,112.45,5,169
+7aaef086-4,Sports,137.6,30,294
+29802c45-f,Clothing,72.87,10,233
+5f21f214-6,Books,282.01,30,221
+5c4dbe08-e,Beauty,264.02,30,170
+540fc545-b,Clothing,438.82,50,201
+d6af616f-e,Sports,287.83,30,279
+05fb83f5-5,Electronics,148.73,10,292
+8ad678aa-5,Books,311.38,15,280
+611e47e6-7,Electronics,458.77,10,164
+49bd4399-b,Books,89.74,30,475
+be08cab2-c,Beauty,286.91,50,241
+71163b94-9,Sports,413.43,5,432
+b671ec0c-a,Toys,49.61,10,267
+ac551181-6,Books,474.78,30,184
+96332841-4,Toys,176.59,20,330
+192148e8-d,Clothing,185.03,30,370
+5deea061-5,Toys,291.53,0,330
+253f8125-b,Books,222.4,20,168
+61ce87ca-8,Sports,490.62,20,325
+48dde606-1,Books,182.37,20,321
+0f93e3db-f,Electronics,149.07,25,473
+5c344a6e-b,Electronics,222.07,10,182
+250519ce-c,Beauty,271.04,10,227
+f620d94d-8,Toys,222.78,15,413
+5a3adec7-d,Sports,70.53,15,462
+a4a2fdda-e,Books,456.08,30,343
+8168dbcc-a,Beauty,437.68,10,224
+5ddc0052-e,Clothing,67.34,5,417
+1676300b-1,Toys,233.53,25,172
+861acc2d-e,Clothing,92.83,25,349
+d308f981-5,Home & Kitchen,404.71,0,448
+23b0c06e-4,Home & Kitchen,477.05,50,256
+b4a1e1c6-8,Books,244.37,0,187
+e8e89970-a,Toys,102.86,30,299
+25d4249f-8,Electronics,356.25,30,285
+8249738d-4,Books,108.51,25,327
+8ed95f0b-0,Toys,207.67,30,322
+8b1f209a-9,Sports,74.87,50,338
+ed83742c-8,Toys,480.9,5,305
+fbc2def3-3,Clothing,65.53,15,456
+db2c1f3e-1,Clothing,40.21,10,375
+3c025691-9,Home & Kitchen,303.09,10,478
+6a6da424-7,Home & Kitchen,263.81,0,367
+61d4d31e-c,Beauty,384.34,50,194
+456dd49c-a,Home & Kitchen,197.02,25,457
+386ac42a-2,Clothing,404.92,25,277
+fe3e592a-f,Home & Kitchen,171.06,5,167
+d4f8bb14-c,Books,434.67,5,249
+e504b46b-a,Toys,56.67,30,226
+0163c4eb-b,Electronics,125.2,0,223
+e671d436-a,Sports,354.46,0,322
+f4a06faf-9,Home & Kitchen,268.57,30,333
+b489b2b3-b,Toys,450.73,50,484
+e9c79473-d,Sports,360.74,5,400
+b1686020-0,Sports,368.83,10,315
+2933f49f-c,Sports,195.94,10,325
+6cff7e5b-7,Books,214.73,50,218
+605dde07-5,Books,249.63,10,280
+ac3960d0-3,Toys,45.18,30,192
+4c3fce3c-7,Books,41.06,10,195
+c6297969-c,Clothing,381.42,0,484
+1a41a273-7,Beauty,493.08,5,251
+3821c082-a,Clothing,117.31,0,194
+a0806601-f,Sports,253.73,10,273
+c71fd02b-3,Electronics,334.97,30,421
+d8f7208e-9,Books,58.66,15,310
+13a0fb92-0,Electronics,79.22,0,444
+348eebab-6,Toys,476.9,30,292
+e845627c-e,Home & Kitchen,268.4,10,232
+eca4c411-a,Books,103.52,10,300
+2171a7a9-3,Clothing,470.39,30,399
+081c867e-d,Clothing,322.28,5,312
+a2ca0417-c,Books,268.31,25,469
+0c8235e6-1,Clothing,395.04,20,435
+6d6f9b42-8,Sports,75.21,15,276
+bc16cccb-e,Toys,336.21,10,330
+b4fd3311-4,Clothing,472.19,0,416
+3bf3112c-c,Toys,268.42,5,460
+41409b71-d,Clothing,70.29,50,397
+75fb7c82-7,Clothing,124.79,20,403
+632f132c-2,Electronics,358.47,50,410
+6782d91e-a,Books,11.83,5,382
+5eb79b27-e,Electronics,361.89,0,449
+6ad98a9f-a,Books,22.47,50,307
+cc6afc23-3,Electronics,257.41,25,269
+72a2a739-6,Electronics,447.66,30,164
+06f04616-9,Sports,107.75,25,188
+4767f4f9-a,Toys,430.37,5,462
+d4b67c79-9,Toys,389.18,20,183
+11bc8942-0,Toys,14.0,5,484
+ae94fc57-6,Toys,83.76,15,429
+c746b898-a,Toys,461.12,50,396
+492eb03f-1,Beauty,477.27,5,258
+4c69c893-e,Beauty,401.83,30,187
+fbc99468-d,Books,107.73,10,402
+d0fde69e-d,Beauty,353.55,15,177
+b061f870-c,Sports,142.07,5,220
+195cfd98-7,Home & Kitchen,224.1,25,284
+6eaf6197-0,Toys,142.54,30,322
+282631c1-5,Home & Kitchen,179.89,50,342
+6802eae8-d,Home & Kitchen,342.71,20,335
+3a69c3a0-d,Books,489.86,30,198
+19db04e8-9,Home & Kitchen,189.68,5,450
+fa06d96a-a,Home & Kitchen,95.16,10,235
+a121de58-6,Home & Kitchen,177.35,20,424
+6714d9f5-0,Beauty,223.91,30,204
+6f933a3f-7,Clothing,386.24,5,166
+2a3c4165-1,Sports,150.85,10,398
+62618c9b-0,Clothing,447.22,15,226
+51ea777d-f,Sports,251.13,0,203
+4308730e-9,Sports,405.16,25,172
+136fbb48-c,Beauty,471.46,15,246
+17a0e86a-6,Beauty,10.58,5,368
+2245ba41-8,Sports,491.92,30,284
+656c4717-e,Sports,247.75,5,293
+2fa4644f-f,Sports,158.62,20,243
+803ed1ef-4,Home & Kitchen,336.93,5,331
+7cf4dc07-6,Toys,311.3,25,453
+68931536-a,Toys,280.73,5,262
+5e363698-2,Beauty,436.53,0,379
+b5e7c030-b,Toys,366.94,20,234
+9c1c55f3-3,Books,13.49,5,266
+0e574c91-5,Electronics,182.15,20,415
+b81a2d01-e,Clothing,140.83,10,480
+a937b54d-f,Books,159.05,30,437
+66bc7e84-f,Home & Kitchen,136.1,0,482
+5ed1a6ec-f,Home & Kitchen,192.28,20,236
+b4223b18-c,Electronics,437.53,15,396
+ba30a600-6,Home & Kitchen,128.95,0,239
+00d20e0d-6,Home & Kitchen,355.35,5,406
+3ef564dd-7,Clothing,491.63,15,441
+fe6ad58f-0,Books,137.13,5,161
+aa78760a-b,Electronics,457.41,25,169
+1d053cf8-1,Beauty,425.6,20,354
+26a27ad3-4,Home & Kitchen,204.49,50,369
+49502edc-e,Clothing,471.03,0,245
+7e6780ba-b,Clothing,420.58,15,457
+1517ace3-f,Home & Kitchen,214.62,0,226
+b92d62e3-c,Books,494.16,50,446
+ba598345-4,Electronics,378.63,20,425
+843b8f99-f,Clothing,172.74,15,346
+46ddbf2a-0,Toys,17.08,30,350
+0ded6d51-b,Sports,338.44,10,233
+b34abdfb-8,Clothing,148.98,50,343
+3281432b-a,Home & Kitchen,346.17,30,456
+f6e1973d-d,Sports,135.91,5,322
+46d205d7-b,Toys,341.06,10,387
+5c0c794f-c,Clothing,416.7,0,377
+51c2dc56-7,Books,97.95,25,340
+8a77898b-8,Sports,118.21,30,448
+ad9581a4-0,Books,255.92,10,255
+1306885a-f,Books,198.11,50,282
+b1920f07-6,Toys,80.06,15,195
+9366eec8-b,Sports,108.02,20,482
+8037dc93-a,Toys,158.49,15,349
+1a0d08bb-d,Electronics,316.9,20,447
+f7ebaec2-4,Clothing,142.15,50,184
+0764f6d3-c,Beauty,433.65,20,172
+a8d1277a-0,Home & Kitchen,51.82,0,388
+102b9ab9-f,Home & Kitchen,287.77,10,170
+0e9d8aba-c,Clothing,263.46,30,290
+a2137180-3,Toys,464.8,30,377
+cda05d56-5,Books,179.09,50,421
+6ec7b270-1,Beauty,56.34,10,422
+3d9280ac-8,Sports,293.68,25,243
+10f11f18-5,Books,204.69,50,258
+d2c02693-7,Beauty,85.67,30,386
+73d0ed60-0,Toys,271.62,20,387
+e4da43fb-b,Books,434.06,50,215
+dfae4cb5-7,Toys,403.69,5,285
+dab77002-a,Sports,250.78,0,443
+918372e9-e,Clothing,472.01,10,164
+4baa2a93-c,Toys,411.25,10,330
+f0bf4f4a-e,Home & Kitchen,129.1,50,274
+74b85d53-2,Sports,427.22,5,251
+b9c5a1cd-8,Beauty,200.58,5,431
+55ad51a4-7,Home & Kitchen,147.46,30,408
+f209e50b-6,Sports,284.81,0,293
+bb22db47-5,Clothing,32.57,15,347
+0d17cc68-f,Books,322.14,50,231
+4ec3a5c5-c,Books,187.36,5,408
+c6aa7b68-4,Sports,479.31,0,188
+d02581bb-6,Home & Kitchen,138.58,15,378
+0063786d-0,Electronics,354.92,0,200
+8cd97b59-d,Beauty,329.08,10,235
+10f30747-e,Home & Kitchen,399.27,0,160
+758e2e7f-1,Toys,366.82,5,186
+749b802c-a,Electronics,395.07,25,343
+cb658966-e,Books,427.4,20,295
+df9f33f5-1,Books,433.97,20,481
+178b783b-5,Home & Kitchen,31.97,10,348
+2f18091d-4,Beauty,430.19,20,286
+ed0cc782-d,Clothing,231.04,10,387
+2ab6358d-4,Clothing,41.27,5,278
+24913f2e-2,Home & Kitchen,313.34,30,269
+793b5123-c,Sports,460.68,5,334
+835fac32-5,Toys,456.87,25,285
+d63815b9-c,Clothing,214.75,0,315
+afb954bb-f,Sports,386.52,5,208
+694fc02b-a,Home & Kitchen,190.17,0,391
+cef56506-5,Home & Kitchen,327.17,30,255
+ef4f7c42-e,Books,295.26,15,197
+0b4dc863-c,Clothing,106.96,10,309
+7ebc97fb-b,Toys,169.52,0,439
+918b5f9a-3,Sports,344.57,50,292
+c548cf2c-b,Home & Kitchen,89.46,15,186
+df747575-7,Beauty,472.59,5,221
+827e917d-5,Toys,89.3,30,476
+8bb1e074-4,Sports,288.05,0,313
+4678822d-d,Clothing,176.69,25,434
+521bae69-4,Books,444.5,30,291
+102c84db-6,Sports,144.11,0,287
+ebe13d4f-7,Sports,433.94,0,303
+ae024f47-f,Clothing,160.88,25,485
+6bf29c21-b,Sports,434.47,0,336
+44554ff5-b,Home & Kitchen,230.16,50,440
+0bf21190-0,Home & Kitchen,276.95,20,380
+0d81c583-f,Home & Kitchen,394.59,0,267
+0b2ac28d-3,Electronics,371.41,10,195
+151f3148-4,Sports,349.27,15,300
+43f85fc8-5,Clothing,51.97,20,188
+7d749d16-a,Toys,298.43,0,250
+2bd88536-d,Home & Kitchen,361.04,0,394
+6d385880-3,Beauty,31.89,25,392
+d7dc3c83-7,Beauty,393.9,50,184
+2acb95e2-9,Books,432.65,30,342
+db768ef3-e,Home & Kitchen,262.74,15,346
+c940cc52-a,Electronics,34.02,20,339
+72ce314e-c,Electronics,101.83,25,352
+8c735cf6-6,Toys,418.08,0,244
+31068fbd-5,Clothing,285.27,25,374
+5abf64dc-f,Sports,233.63,30,349
+d65380b8-b,Clothing,257.48,15,396
+ccdca36b-5,Books,445.72,50,186
+2739d8a4-1,Beauty,257.18,5,293
+a537747a-b,Electronics,278.99,15,210
+5f56f43c-3,Beauty,252.94,30,402
+080b71c4-4,Sports,50.37,10,179
+1df2222c-7,Electronics,106.14,0,331
+6ee9e3f0-3,Sports,399.39,10,171
+9ec84b7e-f,Electronics,291.89,10,429
+7199581b-3,Home & Kitchen,279.35,5,380
+5ac642e8-2,Books,197.95,15,215
+0deb5462-0,Home & Kitchen,463.22,5,332
+359b2172-9,Sports,168.01,50,252
+737eae8d-e,Home & Kitchen,38.25,30,195
+006cd2ab-5,Sports,436.07,5,364
+1b9cd71e-b,Beauty,44.39,0,252
+742b2734-0,Electronics,237.6,5,204
+525a3c3a-f,Electronics,214.63,25,264
+35fbbd87-6,Beauty,471.68,20,447
+4b6f292d-e,Books,386.36,20,225
+780f63d6-5,Beauty,218.86,10,402
+880c9bdf-3,Clothing,331.21,30,393
+32d01cbe-c,Electronics,18.8,25,286
+3a0c22e7-4,Electronics,215.01,50,326
+142c03ad-2,Beauty,367.33,50,399
+55edee38-f,Beauty,383.36,0,422
+6e863b90-e,Sports,146.46,5,268
+d1c954d1-9,Toys,249.34,20,323
+27bea5fd-b,Electronics,192.73,25,418
+ef3c93eb-7,Clothing,117.42,20,214
+34f7ba7d-c,Toys,199.48,15,160
+476cb286-2,Toys,463.31,15,365
+593f72e9-e,Toys,185.53,10,164
+07f7a673-8,Books,481.16,25,345
+cc64be0e-f,Books,167.77,30,383
+4a8b4b0b-b,Electronics,123.79,0,477
+61e20ac1-7,Books,331.56,50,237
+904999a9-7,Sports,129.45,5,255
+baea080a-9,Electronics,347.27,25,322
+6e3beafc-d,Toys,489.29,10,467
+e5937e20-5,Books,235.18,0,458
+5e1ac35c-a,Books,477.68,30,348
+d11ab1dd-a,Home & Kitchen,159.95,30,367
+7db532eb-7,Toys,112.55,25,180
+8bd5e64f-d,Home & Kitchen,56.87,10,248
+7ca7107b-7,Electronics,142.61,10,298
+addbc2a0-1,Clothing,33.31,15,369
+4ede3d2b-a,Beauty,177.17,25,235
+055a9bc5-a,Home & Kitchen,382.64,30,169
+17ede104-6,Clothing,104.37,20,179
+a262c069-4,Home & Kitchen,329.03,25,455
+905cb450-c,Electronics,272.05,15,211
+e6ddc669-c,Toys,192.95,5,253
+156f7e2b-9,Home & Kitchen,128.74,50,223
+9e533c02-7,Electronics,361.85,25,450
+ab6bdbee-3,Toys,197.88,10,374
+72d77546-2,Clothing,122.79,15,461
+437789ec-5,Home & Kitchen,290.14,15,382
+583179d7-5,Electronics,227.45,20,346
+6c21e943-3,Books,318.96,30,440
+55b3a852-9,Beauty,160.41,50,249
+76fa1c92-2,Clothing,428.15,25,277
+1fc03817-d,Toys,351.68,30,357
+70fce63e-6,Toys,245.25,20,352
+7f734297-4,Beauty,327.94,30,426
+9a49cb15-7,Beauty,53.15,0,232
+f5040cdd-f,Electronics,483.76,50,360
+e0cfa3c7-3,Toys,60.12,20,241
+38d4979c-c,Beauty,298.24,30,302
+97113d45-4,Home & Kitchen,51.92,0,341
+52a56ac7-c,Sports,45.39,50,196
+f24afeb8-c,Clothing,60.17,15,213
+a21685d4-7,Books,265.56,25,372
+ee6efec8-8,Books,215.49,5,168
+27f233b7-a,Sports,168.21,0,425
+b169d475-5,Beauty,230.21,0,252
+9a743f52-0,Beauty,448.57,20,427
+14607706-8,Sports,96.31,5,384
+b9334bd5-4,Books,329.54,20,165
+077818f5-8,Books,417.07,50,472
+19ebba70-8,Books,264.45,5,427
+d6bcd01d-c,Clothing,82.72,20,290
+28a99b08-3,Clothing,265.25,0,359
+8d0c9e1c-c,Home & Kitchen,464.26,30,383
+5dd81ddb-f,Electronics,205.68,10,460
+af7b0fdd-7,Beauty,41.41,30,333
+572dd8d9-2,Beauty,142.61,10,395
+4e553a64-6,Sports,189.35,50,169
+34469e0b-6,Sports,24.41,10,305
+2e962d53-a,Books,428.85,15,189
+e1fcc349-b,Beauty,297.35,30,306
+bb922b32-8,Books,53.13,25,248
+056e009d-6,Beauty,496.31,25,437
+333bfc25-0,Home & Kitchen,313.5,10,405
+2e895596-b,Sports,166.78,20,415
+463221f1-b,Books,80.69,0,425
+0f7f7a5b-4,Home & Kitchen,205.66,20,309
+f0250a8a-1,Sports,294.06,20,456
+23c39afd-4,Clothing,481.0,30,295
+53bca148-1,Toys,64.64,25,247
+72d6c5f7-5,Beauty,437.28,10,470
+03373a01-a,Electronics,338.85,5,366
+747def18-0,Toys,486.64,10,211
+ac440998-5,Beauty,59.31,20,197
+6181fdf3-3,Electronics,59.56,25,383
+d7099b67-2,Clothing,322.39,5,374
+34053ecd-3,Beauty,459.93,15,420
+c5b994a5-5,Electronics,265.71,25,391
+478bc891-e,Books,26.45,25,275
+26e42f88-5,Sports,357.62,50,390
+e2da2cd0-0,Toys,282.33,10,163
+67e41f7f-3,Books,396.56,50,229
+20f883e0-e,Toys,456.74,0,327
+55159488-d,Electronics,281.5,20,431
+4ca008f8-5,Clothing,230.41,5,319
+7ad050b2-d,Sports,479.45,20,371
+1f5425bf-6,Beauty,81.48,5,364
+7d2f6da6-1,Home & Kitchen,229.63,15,369
+d9dd7305-e,Electronics,422.68,50,323
+9e1cec60-9,Sports,50.88,15,410
+ec441d57-7,Clothing,369.95,15,464
+ecc1678f-a,Home & Kitchen,58.77,25,473
+1fe8c373-3,Toys,397.97,15,430
+02dbf50b-0,Books,282.65,20,305
+453cf006-6,Clothing,48.25,10,278
+6ff77386-0,Books,191.29,25,427
+a2a42e9d-b,Clothing,309.01,20,293
+01b89dba-d,Books,93.6,10,339
+1354da2f-5,Beauty,347.27,0,177
+f42e7272-8,Books,170.9,15,171
+ceaa19e1-5,Sports,378.49,30,380
+d18ab621-0,Sports,480.02,50,205
+c0b25d1f-c,Home & Kitchen,207.33,20,263
+ad81fe37-e,Books,144.46,15,226
+e76f4d92-1,Sports,171.96,20,388
+f812b493-1,Beauty,353.92,20,397
+43c1b6b4-6,Home & Kitchen,154.46,5,276
+8be0f5e6-0,Clothing,142.25,15,381
+0288af94-1,Books,210.7,10,296
+73d60386-6,Electronics,195.24,5,239
+7bbb6c0f-c,Home & Kitchen,407.25,10,276
+72bc456d-d,Sports,42.18,30,411
+f715aa03-c,Home & Kitchen,318.69,25,405
+2d25d93b-6,Books,115.36,5,374
+f4d910ca-8,Books,119.38,10,314
+9fecbeb4-1,Home & Kitchen,104.9,5,215
+0adf42d6-e,Clothing,327.53,0,436
+ff781f26-c,Books,370.14,30,201
+406b9285-e,Home & Kitchen,395.74,20,454
+244ed32c-a,Books,124.53,30,381
+62004d3d-c,Home & Kitchen,443.2,25,322
+e6e89737-8,Sports,109.76,20,406
+610b6881-1,Electronics,32.18,50,398
+f74a5439-c,Beauty,106.65,30,232
+633b2814-6,Clothing,201.72,10,317
+b8877827-a,Sports,45.3,5,211
+0fab213c-b,Beauty,350.77,5,199
+043c6198-3,Toys,241.86,5,160
+74814259-a,Electronics,187.93,20,391
+12c5bcdc-9,Beauty,193.42,10,297
+23bbe375-4,Home & Kitchen,440.43,5,294
+35daad88-b,Sports,411.73,5,216
+ab4d89bc-5,Beauty,369.78,10,258
+e4101576-c,Electronics,168.76,20,218
+5e3d48d8-a,Home & Kitchen,391.64,25,163
+e7b0cef4-d,Books,59.97,0,397
+23a7ef19-c,Books,418.67,50,403
+f8a2586c-3,Home & Kitchen,245.49,20,262
+46fbdba0-0,Sports,387.5,30,293
+8b31b952-b,Home & Kitchen,52.6,0,326
+127e6307-0,Electronics,368.93,50,174
+aa9b03db-e,Toys,141.33,0,215
+5461de47-f,Home & Kitchen,359.08,10,435
+077b1915-4,Sports,400.48,5,438
+71acfa5b-1,Books,494.06,10,183
+8255795a-a,Books,179.54,10,207
+ca5ffc90-b,Beauty,39.49,0,472
+6ddaa573-1,Home & Kitchen,214.98,10,451
+50dd3bf5-d,Sports,155.36,10,307
+6bdaf3da-3,Beauty,195.38,15,315
+35f0a72f-a,Clothing,392.7,25,374
+b360449a-b,Sports,403.71,50,335
+d973b6bf-e,Books,256.66,10,303
+a6386230-6,Beauty,323.13,30,403
+7443ec94-2,Sports,122.36,0,329
+e0af5ec8-9,Books,386.53,10,347
+e71ea629-6,Toys,214.85,25,414
+31d6ea4b-9,Home & Kitchen,242.71,50,396
+4d8f3de2-c,Electronics,456.79,15,293
+0c380286-a,Electronics,251.69,50,482
+64a99f5d-4,Sports,428.42,30,379
+f8c2cf0f-5,Beauty,126.93,5,229
+7c754cd4-b,Clothing,294.78,10,343
+96c4910e-e,Electronics,250.19,20,381
+ffc76feb-5,Home & Kitchen,167.6,25,280
+122ea7d5-4,Electronics,166.34,5,404
+74847d91-f,Electronics,429.9,25,267
+b6b50ccf-6,Clothing,229.85,5,280
+cdf2289c-6,Clothing,333.75,5,428
+0bb3b1f8-b,Books,265.32,20,385
+65d4a06c-3,Beauty,238.8,10,348
+6cf8083d-5,Sports,33.67,20,365
+93af15e1-0,Beauty,336.04,20,170
+81b33def-9,Books,463.83,10,254
+0774cbb9-7,Toys,44.04,15,244
+53da8163-6,Beauty,180.46,15,220
+d3ec1491-2,Toys,219.22,30,460
+6b482634-f,Beauty,17.62,30,301
+cce3b781-9,Home & Kitchen,434.24,10,430
+ecfee708-c,Beauty,362.88,25,301
+2e625d0a-e,Beauty,150.84,15,229
+0cc21bc5-2,Sports,16.81,25,176
+53a5a769-f,Sports,415.93,30,286
+69c701b5-e,Clothing,11.62,15,354
+a9a54bb0-7,Clothing,379.55,15,438
+8eee2c96-a,Sports,36.7,30,481
+f36c3d78-2,Sports,187.71,10,292
+22e240d4-1,Electronics,247.95,15,355
+31f57700-9,Beauty,93.82,5,222
+66e16cc8-6,Books,436.57,0,279
+2e589993-c,Home & Kitchen,251.55,5,214
+c7ba1a27-a,Clothing,358.51,30,278
+f4d23f5f-d,Sports,277.08,5,370
+e852197d-c,Clothing,166.11,0,244
+c9730c6b-8,Clothing,375.69,20,329
+021b5323-6,Toys,40.84,25,469
+75361d13-c,Beauty,284.31,30,382
+67c6110c-d,Home & Kitchen,382.26,25,482
+de3193c1-5,Clothing,432.35,15,404
+27759c80-c,Toys,375.08,20,218
+8e4f5f67-b,Toys,96.29,30,249
+78871f14-5,Beauty,18.83,20,434
+f79b493a-a,Sports,209.81,0,278
+abfbb29e-b,Beauty,462.62,30,295
+66735ed7-1,Books,75.39,15,226
+6afcbca0-5,Electronics,42.08,25,417
+0fdd5b3a-3,Toys,301.63,0,258
+12e1b808-8,Home & Kitchen,111.69,0,468
+8556e66c-8,Clothing,67.93,20,436
+8f607500-f,Sports,304.77,20,350
+fca49d30-4,Books,414.17,10,278
+2e17ee27-f,Toys,229.31,0,477
+22ba3bc0-4,Home & Kitchen,203.87,5,330
+5f14d968-6,Toys,341.35,30,232
+325aa7df-2,Books,46.58,20,244
+6bf09eaa-b,Home & Kitchen,495.47,5,434
+ddc5cc56-d,Home & Kitchen,170.19,50,258
+454a18be-b,Books,496.58,25,366
+1ce53602-d,Electronics,265.4,50,479
+cac7db78-2,Electronics,182.3,15,288
+0a92dd28-a,Electronics,331.23,5,351
+f01362a8-e,Sports,368.61,5,193
+88c5852e-1,Beauty,77.58,10,341
+ad70a3a7-d,Books,225.18,30,358
+d8da0c70-7,Clothing,26.84,10,444
+3a293082-5,Toys,145.56,0,412
+2296bad7-5,Beauty,71.21,20,379
+2a7b7a77-b,Clothing,282.16,5,187
+fe7b7f45-d,Books,312.0,15,164
+6bbc1f47-3,Electronics,210.34,0,286
+cdeb8fed-1,Clothing,53.33,15,333
+55d34999-4,Books,459.92,20,374
+d8f37fb7-4,Books,121.91,5,387
+669c2558-4,Beauty,454.48,0,388
+9f1e246e-7,Electronics,365.46,20,374
+ca5ade08-c,Books,285.77,15,379
+7f65820e-3,Books,382.19,0,305
+c8fd6364-9,Sports,470.63,30,388
+63590819-0,Toys,14.21,30,210
+6ede0fd1-8,Beauty,116.25,0,459
+ed1ae875-7,Books,464.22,20,421
+96967760-1,Clothing,110.66,0,231
+8273b4d6-a,Clothing,405.44,15,412
+9ce572cf-c,Books,387.72,20,219
+c5c953dc-1,Sports,494.64,15,372
+76fabe22-a,Clothing,15.47,10,285
+2708706b-f,Clothing,246.59,0,180
+f2da22e6-4,Electronics,27.64,50,160
+9d71623e-6,Beauty,464.83,50,386
+260967ac-3,Beauty,111.4,25,385
+353f3937-0,Clothing,401.32,50,377
+b69ff3d5-0,Beauty,58.57,5,186
+605d4e9a-9,Clothing,51.66,30,481
+cf241107-4,Toys,74.45,15,217
+f4e68cb9-c,Beauty,452.7,30,204
+1caa8cc2-d,Electronics,89.64,30,319
+fa74c07d-0,Books,403.11,20,198
+5fdc50b4-9,Toys,265.96,10,322
+816750a6-2,Home & Kitchen,286.82,30,469
+52dab7d3-2,Beauty,411.18,5,444
+2248992e-1,Toys,151.15,50,203
+eccf2ef5-f,Books,15.79,15,391
+0fd849b9-6,Books,25.72,20,330
+aa0dd417-1,Sports,308.0,25,466
+949b68fc-4,Home & Kitchen,28.03,20,205
+edd3115f-f,Toys,253.16,50,434
+f25ed4ac-f,Clothing,178.63,30,332
+c10b4517-2,Books,466.27,20,185
+1432e84a-5,Beauty,66.61,0,368
+320ed873-2,Beauty,96.54,25,206
+ae12cb5e-b,Books,93.17,0,457
+424145fa-f,Toys,177.14,25,368
+fd6d8c56-2,Beauty,178.71,30,194
+60fad8b3-2,Sports,49.67,30,304
+2752a4e7-d,Sports,377.17,20,398
+8d54a85c-b,Toys,467.12,0,341
+9d7b3a40-1,Electronics,50.13,10,249
+208c25b0-f,Electronics,84.5,10,209
+e923ddb3-0,Home & Kitchen,335.21,15,484
+6aab4de3-c,Beauty,496.92,15,400
+c4b7e49b-3,Clothing,188.19,50,387
+eecc66fb-1,Clothing,260.92,5,219
+51f611f7-5,Electronics,75.9,30,169
+b73fbc73-a,Clothing,146.25,10,220
+7780976a-a,Books,44.04,15,412
+a38718aa-1,Clothing,226.03,20,403
+08d26d88-a,Clothing,210.43,15,278
+21c515e3-9,Beauty,161.16,30,254
+1b6d2e70-3,Clothing,159.01,30,435
+42eaef55-d,Beauty,92.91,15,170
+6e38e927-b,Toys,158.0,10,328
+a51a4ade-9,Electronics,137.33,10,233
+731d74ce-8,Toys,176.73,30,410
+4fad634f-d,Sports,64.49,50,266
+8679b68a-2,Books,25.9,10,405
+44750fc4-5,Books,452.56,20,357
+a595d509-9,Electronics,178.67,20,276
+654b3879-5,Home & Kitchen,326.79,15,212
+3bf1555f-e,Toys,317.61,0,304
+e11430ab-8,Home & Kitchen,210.72,25,213
+16f47d8b-3,Books,301.53,5,293
+57a2108b-b,Home & Kitchen,338.28,10,446
+72bf5c3c-e,Books,212.78,15,362
+11183869-3,Home & Kitchen,147.17,0,237
+d4ab229e-c,Clothing,320.44,0,395
+21f8295d-0,Sports,395.32,50,334
+2fe45a62-d,Toys,436.56,0,219
+802e2598-a,Clothing,61.32,25,238
+4f214f6b-a,Toys,359.22,25,347
+c9254109-5,Toys,309.67,25,229
+35118dda-c,Electronics,309.54,15,477
+afb2d617-c,Sports,315.8,0,401
+4cdd9fa5-1,Toys,425.9,5,462
+3d9448a2-d,Clothing,399.41,20,169
+2dd9f21a-9,Toys,177.58,20,367
+e32822c0-4,Electronics,207.02,30,440
+cbfe0b39-9,Clothing,324.36,15,328
+f2abc93d-7,Books,168.18,0,422
+5c34ab2f-1,Sports,396.76,50,206
+9cb987d3-7,Books,74.67,30,426
+c30789e2-2,Beauty,268.63,15,395
+27086972-3,Books,105.99,15,475
+93701244-6,Books,213.68,15,395
+ef09e847-4,Beauty,148.44,10,445
+672bdc23-b,Toys,140.68,10,401
+4581d011-b,Toys,393.82,50,263
+89023a7d-8,Toys,155.42,20,458
+0d1afa5d-a,Home & Kitchen,267.16,20,336
+e7797ea9-2,Toys,340.21,5,325
+9541684d-3,Clothing,336.44,25,479
+694dc185-6,Electronics,283.36,50,351
+fddffc2e-9,Clothing,472.32,0,226
+cecae3dc-8,Home & Kitchen,101.57,20,333
+d2d8de8e-9,Electronics,395.72,20,222
+20db9273-b,Electronics,221.5,50,377
+dc3e57fa-e,Electronics,320.78,15,171
+990c64e6-e,Electronics,315.5,15,333
+909a3085-c,Beauty,27.26,30,261
+f8947636-8,Toys,409.56,10,379
+c803cb4d-f,Toys,194.33,20,290
+af1f5832-c,Home & Kitchen,281.87,50,198
+05611fde-f,Sports,63.89,5,305
+683396d0-8,Books,409.61,10,442
+fb547e8b-d,Clothing,222.24,25,183
+75a51dbb-6,Electronics,167.97,50,220
+511ebbe1-b,Electronics,101.38,20,211
+cfcf8a79-4,Beauty,299.63,15,219
+fd3b53af-c,Toys,373.78,25,162
+2821ebc6-0,Sports,243.74,15,166
+e4f7dbbd-b,Home & Kitchen,133.2,20,398
+5e070719-4,Electronics,68.94,30,386
+dc89fb50-2,Electronics,275.43,50,377
+9ec5b085-7,Toys,197.83,25,265
+3d35c39c-5,Electronics,215.89,50,289
+19df81cc-7,Beauty,83.57,5,339
+b515ad91-9,Books,393.77,5,197
+03440158-4,Toys,262.88,10,266
+7803ef47-f,Beauty,373.87,50,207
+ab788e03-9,Beauty,96.15,25,459
+9e01f018-3,Home & Kitchen,298.68,30,269
+bbf5a8c4-c,Books,290.9,15,187
+9de4ed40-3,Electronics,316.29,30,273
+279b80d2-3,Toys,69.38,15,296
+bc3d8d56-d,Beauty,241.05,15,341
+cb1d13bc-a,Home & Kitchen,206.34,20,325
+ab743503-5,Books,457.39,50,335
+ad062ad5-4,Books,71.82,0,173
+c201b757-7,Beauty,431.57,25,337
+f2226ce1-5,Beauty,304.06,5,177
+c0c0bc6d-5,Beauty,302.93,5,471
+2c094686-a,Books,31.24,5,461
+434e63d4-3,Sports,439.88,5,387
+fa9eac42-d,Toys,397.79,25,440
+beed46fa-3,Books,302.86,0,252
+f4a35930-c,Electronics,286.82,25,308
+b15b2799-0,Clothing,209.91,50,255
+7184cb78-f,Beauty,406.97,15,179
+89622171-7,Home & Kitchen,95.24,15,338
+57bd01e9-5,Electronics,313.68,25,427
+ed994c1b-8,Electronics,328.54,15,250
+c7d050f3-d,Clothing,390.78,25,264
+47489c4d-c,Sports,432.01,5,345
+17d2f080-1,Electronics,101.33,15,376
+b1fa8814-7,Sports,97.09,30,182
+8a686224-d,Books,428.23,20,374
+a68ea643-5,Beauty,249.79,20,200
+6b443db9-7,Books,125.28,0,308
+9e0e3d1d-9,Toys,27.12,5,199
+585b0773-2,Sports,484.56,0,191
+ae83104f-9,Home & Kitchen,68.45,30,168
+2e3d2cff-e,Sports,108.02,10,198
+5dc3861b-a,Home & Kitchen,287.25,20,446
+5c512226-0,Beauty,198.26,0,216
+cabdd327-d,Clothing,218.12,5,456
+b371fcde-5,Toys,401.08,5,450
+b45ef0eb-6,Books,247.48,50,345
+8402c6f6-f,Clothing,78.14,0,240
+a2f456bc-6,Books,169.79,5,187
+cd15baa4-6,Clothing,438.09,20,479
+c5855ed0-1,Electronics,265.65,25,212
+aff28293-4,Home & Kitchen,39.87,15,208
+48abeefb-a,Electronics,406.9,20,266
+20ed3090-1,Home & Kitchen,218.68,20,224
+57d63443-6,Home & Kitchen,216.55,20,402
+9e94c33f-a,Sports,282.62,0,424
+c6bc8604-1,Books,493.54,20,300
+f98164ab-b,Clothing,48.56,0,192
+38ffeb9d-2,Sports,185.29,0,215
+d34354bc-4,Sports,310.41,15,164
+f6e5b45b-1,Beauty,381.75,50,268
+444025dc-a,Beauty,202.43,20,237
+3ee2d742-e,Clothing,235.21,10,431
+7d8a413d-2,Books,371.67,0,237
+14316b67-4,Toys,393.1,0,299
+32cefb76-9,Beauty,146.55,20,260
+d3e39266-3,Electronics,193.43,15,160
+1cda4de8-a,Sports,259.28,5,415
+503f3f21-6,Clothing,217.51,30,412
+ae7411d3-2,Books,412.49,50,234
+d2715a4e-f,Clothing,392.74,5,460
+954b6084-d,Sports,135.71,50,296
+b894955f-9,Toys,487.62,25,306
+90083387-2,Beauty,370.72,10,455
+31706191-8,Beauty,98.73,5,166
+f0f93bcd-c,Home & Kitchen,79.42,50,323
+a41c5d52-d,Home & Kitchen,248.01,50,452
+240cbb3f-2,Electronics,339.17,30,323
+c957a166-d,Books,419.32,0,320
+59771ab0-8,Books,323.53,15,361
+8e123634-6,Toys,230.0,25,391
+6a59db47-e,Books,218.44,25,407
+68867ed9-3,Books,431.85,15,259
+5420918c-0,Books,334.79,25,424
+28714133-6,Beauty,486.79,0,351
+08838c2c-9,Toys,212.87,15,162
+c39a4f16-6,Home & Kitchen,389.76,0,266
+b4f67f96-9,Electronics,447.66,30,344
+a5d07442-d,Home & Kitchen,235.77,30,381
